@@ -77,7 +77,7 @@ Cleaver,切割者
 "Barbed Club",锐刺木棒
 "Rock Breaker",破岩锤
 "Battle Hammer",强化战锤
-"Flanged Mace",钉头锤
+"Flanged Mace",护体之锤
 "Ornate Mace",华丽之锤
 "Phantom Mace",幻象之锤
 "Ancestral Club",祖灵之杵
@@ -116,7 +116,7 @@ Sekhem,威能短杖
 "Bronze Sceptre",铜锻短杖
 "Quartz Sceptre",石英短杖
 "Iron Sceptre",冷铁短杖
-"Ochre Sceptre",赤色权杖
+"Ochre Sceptre",赤色短杖
 "Ritual Sceptre",祭仪短杖
 "Shadow Sceptre",影语短杖
 "Grinning Fetish",远古之祭
@@ -124,7 +124,7 @@ Sekhem,威能短杖
 "Stag Sceptre",灵鹿短杖
 "Sambar Sceptre",恶魔短杖
 "Rusted Sword",锈剑
-Cutlass,军用长刀
+Cutlass,军用长刃
 Baselard,冷光长剑
 "Battle Sword",士兵长剑
 "Elder Sword",智者长剑
@@ -211,7 +211,7 @@ Smallsword,小剑
 "Imperial Bow",帝国之弓
 "Harbinger Bow",先驱者之弓
 "Long Bow",长弓
-"Composite Bow",复合弓
+"Composite Bow",合成弓
 "Recurve Bow",反曲弓
 "Bone Bow",骨制弓
 "Royal Bow",皇家猎弓
@@ -283,7 +283,7 @@ Sledgehammer,冷铁重锤
 "Fright Maul",恐惧重锤
 "Totemic Maul",图腾巨锤
 "Great Mallet",刚猛巨锤
-"Morning Star",流星锤
+"Morning Star",晨星
 "Solar Maul",日光锤
 "Coronal Maul",花冠重锤
 "Corroded Blade",锈斑巨剑
@@ -560,7 +560,7 @@ Tulborn,托沃崩
 Duskdawn,宵晓
 "Kitava's Feast",奇塔弗之盛宴
 Felltooth,崩齿
-Tidebreaker,局势逆转者
+Tidebreaker,碎潮者
 "Martyr of Innocence",纯净之神的祭品
 "Ahn's Might",汉恩的力量
 Mordhau,魔器
@@ -1169,3 +1169,7 @@ Duality,二元一体
 "Spiteful Floret",怨毒之花
 "Surge of the Tide",奔涌潮汐
 "Runeseeker's Call",符文猎手的呼唤
+"Ghostflame Blade",鬼火长剑
+Spinesnatch,脊柱之握
+"The Crustacean's Call",蟹群之召
+"Dread Captain's Cutlass",恐惧船长的弯刀

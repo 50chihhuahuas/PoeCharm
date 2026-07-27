@@ -74,7 +74,7 @@ Combust,戰燃
 "Commandment of Force",原力之誡
 "Commandment of Frost",寒冰之誡
 "Commandment of Fury",狂怒之誡
-"Commandment of Inferno",煉獄之誡
+"Commandment of Inferno",獄炎號令
 "Commandment of Ire",憤怒之誡
 "Commandment of Light",光之誡
 "Commandment of Reflection",倒影之誡
@@ -130,7 +130,7 @@ Dash,幻步
 Desecrate,褻瀆
 Despair,絕望
 "Destructive Link",連結：破壞
-Determination,堅定
+Determination,瓦爾．堅定
 "Detonate Dead",屍體爆破
 "Detonate Mines",引爆地雷
 "Devouring Totem",吞噬圖騰
@@ -194,7 +194,7 @@ Exsanguinate,抽血
 "Fire Weapon",烈焰武器
 Fireball,火球
 Firestorm,烈炎風暴
-"Flame Breath",火焰吐息
+"Flame Breath",火焰之息
 "Flame Dash",烈焰衝刺
 "Flame Link",連結：烈焰
 "Flame Surge",怒焰奔騰
@@ -214,7 +214,7 @@ Focus,專注
 "Forbidden Rite",禁忌儀式
 "Freeze Mine",冰凍地雷
 "Freezing Pulse",冰霜脈衝
-Frenzy,狂怒
+Frenzy,狂怒球
 "Frost Blades",冰霜之刃
 "Frost Bolt Channel",持續施法寒冰彈
 "Frost Bomb",寒霜爆
@@ -279,7 +279,7 @@ Lacerate,破空斬
 "Leap Slam",躍擊
 "Lightning Aegis",閃電聖盾
 "Lightning Arrow",閃電箭矢
-"Lightning Bolt",雷彈
+"Lightning Bolt",雷擊
 "Lightning Clone Retaliation",閃電複製體復仇
 "Lightning Conduit",導雷
 "Lightning Spire Trap",鋒雷陷阱
@@ -329,7 +329,7 @@ Punishment,懲戒
 "Queen's Demand",女王之慾
 "Rage Vortex",盛怒漩渦
 "Rain of Arrows",箭雨
-"Rain Of Blades",刀刃之雨
+"Rain Of Blades",刀雨
 "Raise Spectre",喚醒幽魂
 "Raise Spiders",異蛛復甦
 "Raise Zombie",殭屍復甦
@@ -360,7 +360,7 @@ Riptide,激流
 "Shield Shatter",盾牌碎裂
 "Shock Ground",感電地面
 "Shock Nova",閃電新星
-Shockwave,震波
+Shockwave,衝擊波
 "Shockwave Totem",震波圖騰
 "Shrapnel Ballista",彈片砲塔
 "Siege Ballista",攻城炮台
@@ -380,10 +380,10 @@ Spark,電球
 "Spectral Spinning Weapon",靈製武器
 "Spectral Spirits",幽魂之靈
 "Spectral Throw",靈體投擲
-Spellslinger,拋法者
+Spellslinger,法術回音
 "Spirit Burst",靈體爆破
 "Spirit Offering",靈魂奉獻
-"Split Arrow",分裂箭矢
+"Split Arrow",裂化箭矢
 "Splitting Steel",鋼之裂化
 "Stalking Pustule",潛行毒玉
 "Static Strike",充能打擊
@@ -397,7 +397,7 @@ Steelskin,鋼筋鐵骨
 "Storm of Judgement",審判風暴
 "Storm Rain",暴風雷雨
 Stormbind,風暴術符
-"Stormblast Mine",風暴地雷
+"Stormblast Mine",風爆地雷
 "Summon Arbalists",召喚弩兵
 "Summon Bestial Rhoa",召喚兇猛恐喙鳥
 "Summon Bestial Snake",召喚兇猛蟒蛇
@@ -439,7 +439,7 @@ Taunt,嘲諷
 "Tawhoa's Chosen",塔赫亞的抉擇
 "Tectonic Slam",破體之擊
 "Tempest Shield",暴風之盾
-"Temporal Chains",時空鎖鏈
+"Temporal Chains",時空鎖鍊
 "Temporal Rift",時空裂隙
 "Tentacle Whip",觸手鞭擊
 "Thirst for Blood",嗜血
@@ -565,7 +565,7 @@ Zealotry,狂熱
 "Vaal Lightning Arrow",瓦爾．閃電箭矢
 "Vaal Reap",瓦爾．收割
 "Vaal Rejuvenation Totem",瓦爾．回春圖騰
-"Vaal Split Arrow",瓦爾．分裂箭矢
+"Vaal Split Arrow",瓦爾．裂化箭矢
 "Avenging Flame",復仇烈焰
 "Play Dead!",裝死！
 "Playtest Attack",測試攻擊
@@ -601,7 +601,7 @@ Sit!,坐下！
 "Detonate Dead of Scavenging",屍體爆破．清洗
 "Detonate Dead of Chain Reaction",屍體爆破．連鎖
 "Flicker Strike of Power",閃現打擊．暴擊
-"Split Arrow of Splitting",分裂箭矢．分裂
+"Split Arrow of Splitting",裂化箭矢．裂化
 "Cold Snap of Power",霜暴．暴擊
 "Ice Nova of Frostbolts",冰霜新星．寒冰彈
 "Ice Nova of Deep Freeze",冰霜新星．深層冰凍
@@ -613,7 +613,7 @@ Sit!,坐下！
 "Discharge of Misery",解放．苦痛
 "Spark of the Nova",電球．新星
 "Spark of Unpredictability",電球．未知
-"Ice Spear of Splitting",冰矛．分裂
+"Ice Spear of Splitting",冰矛．裂化
 "Raise Spectre of Transience",喚醒幽魂．轉瞬
 "Infernal Blow of Immolation",煉獄之擊．自焚
 "Glacial Hammer of Shattering",冰霜之錘．粉碎
@@ -738,7 +738,7 @@ Sit!,坐下！
 "Penance Brand of Conduction",贖罪烙印．傳導
 "Earthshatter of Fragility",碎地重擊．易碎
 "Earthshatter of Prominence",碎地重擊．卓越
-"Void Sphere of Rending",虛無玉．分裂
+"Void Sphere of Rending",虛無玉．撕裂
 "Crackling Lance of Branching",碎雷電閃．分支
 "Crackling Lance of Disintegration",碎雷電閃．毀滅
 "Splitting Steel of Ammunition",鋼之裂化．彈藥
@@ -795,8 +795,8 @@ Eviscerate,剔骨
 "Glacial Shield Swipe",冰川盾擊
 "Jet of Flame",烈焰噴射
 "Puncture of Shanking",腿脛放血
-"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的幻影
-"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的幻影
+"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的形象
+"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的幻象
 "Summon Demon Beast",召喚惡魔野獸
 "Summon Demon Harpy",召喚惡魔鷹身
 "Summon Demon Imp",召喚惡魔小鬼
@@ -1445,7 +1445,7 @@ Projectile,投射物
 Requiem,安魂曲
 "Runic Tempering",符文冶鍊
 "Scorching Cleave",灼燒劈砍
-"Set Shark Bait",設為鯊魚餌
+"Set Shark Bait",放置鯊餌
 "Shattering Roar",粉碎咆哮
 "Shield Wave",盾之波動
 "Siphon Elements",虹吸元素
@@ -1504,7 +1504,7 @@ Icicles,碎霜彈幕
 "Spectral Helix of Trarthus",特拉特斯靈體旋武
 "Spectral Shield Throw of Trarthus",特拉特斯盾靈投擲
 "Spectral Throw of Trarthus",特拉特斯靈體投擲
-Starfall,星墜
+Starfall,星空殞落
 "Storm Call of Trarthus",特拉特斯風暴呼喚
 "Summon Living Lightning",召喚活躍閃電
 "Summon Shaper Memory",召喚塑界者的記憶
@@ -1518,7 +1518,7 @@ Starfall,星墜
 "The Great Avalanche",浩劫雪崩
 "The Grey Wind Howls",灰風咆嘯
 Thunderburst,雷霆爆裂
-Thunderstorm,閃電風暴
+Thunderstorm,天雷暴雨
 "Violent Desire",暴力渴望
 "Wall of Force",力量之壁
 "Ward Shatter",保護碎裂
@@ -1591,8 +1591,7 @@ Shred,裂碎
 "Wing Blast",翅翼猛襲
 "Wolf Pack",召喚惡狼
 "Blazing Glare",熾炎灼視
-"Bursting Toad","爆裂蟾蜍
-"
+"Bursting Toad",爆裂蟾蜍
 "Caustic Retribution",酸蝕報復
 "Ceaseless Flesh",無休血肉
 "Charged Dash of Projection",雷霆衝鋒．投射
@@ -1699,3 +1698,27 @@ Slam,重擊
 "Wild Protector",荒野守護
 "Wildwood's Gifts",荒林禮贈
 "Winged Entropy",亂翼侵蝕
+"Abyssal Maw",深淵巨口
+"Aspect of Arakaali",艾爾卡莉祝福
+"Aspect of Lunaris",月影祝福
+"Aspect of Solaris",日耀祝福
+"Aspect of the Brine King",海洋王祝福
+"Chain Hook of Angling",奪魂勾索．開釣
+"Dark Bargain",暗夜血契
+"Dark Bargain of Trarthus",特拉特斯暗夜血契
+"Divine Blast of Radiance",神聖爆破．耀閃
+"Explosive Toad",爆炸蟾蜍
+"Falling Crystal",淵晶墜擊
+Fleshrend,血肉撕扯
+"Ghostly Artillery",幽魂火炮
+"Heaven's Scourge",天堂災魘
+"Holy Hammers of Spirals",神聖之錘．螺旋
+"Holy Sweep of Hammerfalls",神聖橫掃．錘落
+"Mana-Infused Staff",魔能長杖
+"Pact of Beidat",貝達特誓約
+"Pact of Ghorr",戈沃誓約
+"Pact of K'Tash",克塔什誓約
+"Pact of Lycia",利希亞誓約
+"Reap of Butchery",收割．屠戮
+"Savage Barnacle",生猛藤壺
+"Surging Torrent",奔湧激流

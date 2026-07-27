@@ -34,17 +34,17 @@
 "5% reduced Enemy Stun Threshold with Maces or Sceptres","錘和權杖減少 5% 敵人暈眩門檻"
 "Mace or Sceptre Attacks deal 14% increased Damage with Ailments","錘或權杖增加 14% 異常狀態傷害"
 "14% increased Physical Damage with Maces or Sceptres","錘和權杖增加 14% 物理傷害"
-"8% increased Area of Effect",增加8%範圍效果
+"8% increased Area of Effect","增加 8% 範圍效果"
 "Mace or Sceptre Attacks deal 36% increased Damage with Ailments","錘或權杖增加 36% 異常狀態傷害"
 "36% increased Physical Damage with Maces or Sceptres","錘和權杖增加 36% 物理傷害"
 "12% reduced Enemy Stun Threshold with Maces or Sceptres","錘和權杖減少 12% 敵人暈眩門檻"
 "Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments","錘或權杖攻擊增加 12% 擊中和異常狀態傷害"
-"5% increased Area of Effect",增加5%範圍效果
+"5% increased Area of Effect","增加 5% 範圍效果"
 "Mace or Sceptre Attacks deal 10% increased Damage with Hits and Ailments","錘或權杖攻擊增加 10% 擊中和異常狀態傷害"
 "20% increased Stun Duration on Enemies","增加 20% 敵人暈眩時間"
 "Mace or Sceptre Attacks deal 30% increased Damage with Ailments","錘或權杖增加 30% 異常狀態傷害"
 "30% increased Physical Damage with Maces or Sceptres","錘和權杖增加 30% 物理傷害"
-"12% increased Area of Effect",增加12%範圍效果
+"12% increased Area of Effect","增加 12% 範圍效果"
 "4% increased maximum Life","增加 4% 最大生命"
 "10% increased Armour","增加 10% 護甲"
 "28% increased Armour","增加 28% 護甲"
@@ -75,9 +75,9 @@
 "12% increased Attack Physical Damage","增加 12% 物理攻擊傷害"
 "5% increased maximum Life","增加 5% 最大生命"
 "+1 to Maximum Endurance Charges","+1 最大耐力球數量"
-"8% increased maximum Mana",增加8%最大魔力
+"8% increased maximum Mana","增加 8% 最大魔力"
 "10% increased maximum Mana","增加 10% 最大魔力"
-"Guard Skills have 20% increased Cooldown Recovery Rate","守護技能增加 20% 冷卻時間恢復速度"
+"Guard Skills have 20% increased Cooldown Recovery Rate","守護技能增加 20% 冷卻時間恢復率"
 "5% increased maximum Mana","增加 5% 最大魔力"
 "3% reduced Mana Cost of Skills","減少 3% 技能魔力消耗"
 "Regenerate 0.2% of Life per second per Endurance Charge","每顆耐力球每秒回復 0.2% 生命"
@@ -97,7 +97,7 @@
 "10% increased maximum Life","增加 10% 最大生命"
 "Enemies Cannot Leech Life From you",敵人不能偷取你的生命
 "10% reduced Enemy Stun Threshold","減少 10% 敵人暈眩門檻"
-"3% increased maximum Life",增加3%最大生命
+"3% increased maximum Life","增加 3% 最大生命"
 "12% increased Armour","增加 12% 護甲"
 "+30 to Armour","+30 點護甲"
 "+16 to maximum Life","+16 最大生命"
@@ -212,17 +212,17 @@
 "30% increased Critical Strike Chance for Spells","增加 30% 法術暴擊率"
 "+30% to Critical Strike Multiplier for Spell Damage","+30% 法術傷害的暴擊加成"
 "20% increased Area Damage","增加 20% 範圍傷害"
-"10% increased Area of Effect",增加10%範圍效果
-"10% increased Area Damage",增加10%範圍傷害
+"10% increased Area of Effect","增加 10% 範圍效果"
+"10% increased Area Damage","增加 10% 範圍傷害"
 "+20 to Intelligence","+20 智慧"
-"20% increased Mana Regeneration Rate",增加20%魔力回復率
-"10% increased Mana Regeneration Rate",增加10%魔力回復率
+"20% increased Mana Regeneration Rate","增加 20% 魔力恢復率"
+"10% increased Mana Regeneration Rate","增加 10% 魔力恢復率"
 "5% reduced Mana Cost of Skills","減少 5% 技能魔力消耗"
 "+12% to Critical Strike Multiplier","+12% 基礎暴擊加成"
-"8% increased Cast Speed",增加8%施放速度
+"8% increased Cast Speed","增加 8% 施放速度"
 "+15% to Critical Strike Multiplier for Spell Damage","+15% 法術傷害的暴擊加成"
-"4% increased Cast Speed",增加4%施放速度
-"3% increased Cast Speed",增加3%施放速度
+"4% increased Cast Speed","增加 4% 施放速度"
+"3% increased Cast Speed","增加 3% 施放速度"
 "10% increased Critical Strike Chance for Spells","增加 10% 法術暴擊率"
 "Recover 3% of Life on Kill","擊殺時恢復 3% 生命"
 "12% of Damage taken Recouped as Life","承受 12% 傷害補償為生命"
@@ -231,7 +231,7 @@
 "10% increased Attack Speed with Two Handed Melee Weapons","使用雙手近戰武器時增加 10% 攻擊速度"
 "40% increased Stun Duration with Two Handed Melee Weapons on Enemies","使用雙手近戰武器時增加 40% 敵人暈眩時間"
 "Attacks with Two Handed Melee Weapons deal 25% increased Damage with Hits and Ailments","使用雙手近戰武器攻擊增加 25% 擊中和異常狀態傷害"
-"10% increased Skill Effect Duration",增加10%技能效果持續時間
+"10% increased Skill Effect Duration","增加 10% 技能效果持續時間"
 "+8% to all Elemental Resistances","+8% 全部元素抗性"
 "24% increased Critical Strike Chance for Attacks","攻擊增加 24% 暴擊率"
 "24% increased Elemental Damage with Attack Skills","攻擊技能增加 24% 元素傷害"
@@ -268,9 +268,9 @@
 "20% increased Damage Over Time with Bow Skills","增加 20% 弓技能持續傷害"
 "18% increased Critical Strike Chance with Bows","使用弓類武器時增加 18% 暴擊率"
 "+12% to Critical Strike Multiplier with Bows","持弓時 +12% 暴擊加成"
-"12% increased Damage with Bows",持弓類武器時增加12%傷害
+"12% increased Damage with Bows","持弓類武器時增加 12% 傷害"
 "12% increased Damage Over Time with Bow Skills","增加 12% 弓技能持續傷害"
-"10% increased Damage with Bows",持弓類武器時增加10%傷害
+"10% increased Damage with Bows","持弓類武器時增加 10% 傷害"
 "4% increased Attack Speed with Bows","使用弓類武器時增加 4% 攻擊速度"
 "6% increased Accuracy Rating with Bows","使用弓類武器時增加 6% 命中值"
 "15% increased Damage with Bows","持弓類武器時增加 15% 傷害"
@@ -291,7 +291,7 @@
 "+4% chance to Suppress Spell Damage","+4% 壓抑法術傷害率"
 "8% chance to Avoid being Stunned","8% 機率避免被暈眩"
 "16% increased maximum Mana","增加 16% 最大魔力"
-"30% increased Mana Regeneration Rate","增加 30% 魔力回復率"
+"30% increased Mana Regeneration Rate","增加 30% 魔力恢復率"
 "8% increased maximum Life","增加 8% 最大生命"
 "20% chance to Avoid being Stunned","20% 機率避免被暈眩"
 "Regenerate 2% of Life per Second if you've used a Life Flask in the past 10 seconds","若過去 10 秒你有使用生命藥劑，每秒回復 2% 生命"
@@ -336,7 +336,7 @@
 "12% increased Elemental Damage with Attack Skills","攻擊技能增加 12% 元素傷害"
 "20% increased Damage with Bows","持弓類武器時增加 20% 傷害"
 "6% increased Attack Speed with Bows","使用弓類武器時增加 6% 攻擊速度"
-"10% increased Accuracy Rating with Bows",使用弓類武器時增加10%命中值
+"10% increased Accuracy Rating with Bows","使用弓類武器時增加 10% 命中值"
 "5% increased Attack Speed with Two Handed Melee Weapons","使用雙手近戰武器時增加 5% 攻擊速度"
 "25% increased Physical Damage with Two Handed Melee Weapons","持近戰雙手武器時增加 25% 物理傷害"
 "Attacks with Two Handed Melee Weapons deal 25% increased Damage with Ailments","使用雙手近戰武器攻擊增加 25% 異常狀態傷害"
@@ -376,10 +376,10 @@
 "+12% to Melee Critical Strike Multiplier","+12% 近戰暴擊加成"
 "16% increased Spell Damage","增加 16% 法術傷害"
 "+16 to maximum Mana","+16 最大魔力"
-"12% increased Damage",增加12%傷害
+"12% increased Damage","增加 12% 傷害"
 "+10 to maximum Mana","+10 最大魔力"
 "10% increased Spell Damage","增加 10% 法術傷害"
-"3% increased Movement Speed",增加3%移動速度
+"3% increased Movement Speed","增加 3% 移動速度"
 "+3% chance to Suppress Spell Damage","+3% 壓抑法術傷害率"
 "+15% to all Elemental Resistances","+15% 全部元素抗性"
 "+14 to maximum Life","+14 最大生命"
@@ -405,17 +405,17 @@
 "+3 to Melee Strike Range","+3 近戰打擊距離"
 "10% increased Melee Physical Damage","增加 10% 近戰物理傷害"
 "Regenerate 1% of Life per second","每秒回復 1% 生命"
-"+20 to maximum Life",+20最大生命
+"+20 to maximum Life","+20 最大生命"
 "10% increased Attack Speed","增加 10% 攻擊速度"
 "Ignore all Movement Penalties from Armour",無視穿著護甲所帶來的減少移動速度效果
 "+30 to Dexterity","+30 敏捷"
 "+10 to Dexterity","+10 敏捷"
 "6% increased Attack and Cast Speed","增加 6% 攻擊與施放速度"
 "+30 to Intelligence","+30 智慧"
-"+20 to maximum Mana",+20最大魔力
+"+20 to maximum Mana","+20 最大魔力"
 "+20 to maximum Energy Shield","+20 最大能量護盾"
 "20% increased Spell Damage","增加 20% 法術傷害"
-"5% increased Cast Speed",增加5%施放速度
+"5% increased Cast Speed","增加 5% 施放速度"
 "24% increased Elemental Damage","增加 24% 元素傷害"
 "+12% to all Elemental Resistances","+12% 全部元素抗性"
 "10% chance to Freeze, Shock and Ignite","10% 機率使敵人冰凍、感電與點燃"
@@ -438,7 +438,7 @@
 "8% increased Accuracy Rating while Dual Wielding","雙持武器時增加 8% 命中值"
 "+10% to Attack Critical Strike Multiplier while Dual Wielding","雙持時 +10% 攻擊暴擊加成"
 "60% increased Critical Strike Chance for Spells","增加 60% 法術暴擊率"
-"20% increased Damage",增加20%傷害
+"20% increased Damage","增加 20% 傷害"
 "8% increased Attack Speed with One Handed Weapons","持單手武器時增加 8% 攻擊速度"
 "20% increased Damage with One Handed Weapons","持單手武器時增加 20% 傷害"
 "Attacks with One Handed Weapons deal 30% increased Damage with Ailments","使用單手武器攻擊增加 30% 異常狀態傷害"
@@ -457,7 +457,7 @@
 "+10% chance to Suppress Spell Damage","+10% 壓抑法術傷害率"
 "25% chance to gain a Frenzy Charge when you Block","當你格擋時有 25% 機率獲得 1 顆狂怒球"
 "+3% Chance to Block Attack Damage while Dual Wielding or holding a Shield","雙持或持盾 +3% 攻擊傷害格擋率"
-"15% increased Ignite Duration on Enemies",增加15%敵人點燃持續時間
+"15% increased Ignite Duration on Enemies","增加 15% 敵人點燃持續時間"
 "15% chance to Ignite","15% 機率使用火焰傷害擊中敵人造成點燃效果"
 "30% increased Fire Damage","增加 30% 火焰傷害"
 "Damage Penetrates 6% Fire Resistance","傷害穿透 6% 火焰抗性"
@@ -596,8 +596,8 @@
 "Can have up to 2 additional Remote Mines placed at a time","同時最多可以有 2 個額外已放置的遙控地雷"
 "16% increased Physical Damage","增加 16% 物理傷害"
 "+50 to Armour","+50 點護甲"
-"40% increased Mana Regeneration Rate","增加 40% 魔力回復率"
-"6% increased Cast Speed",增加6%施放速度
+"40% increased Mana Regeneration Rate","增加 40% 魔力恢復率"
+"6% increased Cast Speed","增加 6% 施放速度"
 "50% of Physical, Cold and Lightning Damage Converted to Fire Damage\nDeal no Non-Fire Damage","50% 物理、冰冷、閃電傷害轉換成火焰傷害。\n除火焰傷害外不造成其他傷害"
 "40% of Damage is taken from Mana before Life","生命值承受的 40% 傷害由魔力扣除"
 "15% faster start of Energy Shield Recharge","提前 15% 開始充能能量護盾"
@@ -642,7 +642,7 @@
 "1% of Attack Damage Leeched as Mana","1% 攻擊傷害偷取魔力"
 "Recover 2% of Life on Kill","擊殺時恢復 2% 生命"
 "+14 to maximum Energy Shield","+14 最大能量護盾"
-"25% increased Mana Regeneration Rate",增加25%魔力回復率
+"25% increased Mana Regeneration Rate","增加 25% 魔力恢復率"
 "+16 to maximum Energy Shield","+16 最大能量護盾"
 "+10 to maximum Energy Shield","+10 最大能量護盾"
 "12% increased maximum Mana","增加 12% 最大魔力"
@@ -688,7 +688,7 @@
 "12% increased Fire Damage with Attack Skills","攻擊技能增加 12% 火焰傷害"
 "30% increased Elemental Damage","增加 30% 元素傷害"
 "30% increased Effect of Non-Damaging Ailments","增加 30% 非傷害型異常狀態的效果"
-"10% increased Cast Speed",增加10%施放速度
+"10% increased Cast Speed","增加 10% 施放速度"
 "7% increased maximum Life","增加 7% 最大生命"
 "20% increased Armour","增加 20% 護甲"
 "100% increased total Recovery per second from Life Leech","增加 100% 生命偷取的每秒總恢復"
@@ -697,7 +697,7 @@
 "Attacks with Two Handed Melee Weapons deal 30% increased Damage with Ailments","使用雙手近戰武器攻擊增加 30% 異常狀態傷害"
 "Guard Skills have 40% increased Duration","守衛技能增加 40% 持續時間"
 "10% of Damage taken Recouped as Mana","10% 的承受傷害補償為魔力"
-"25% increased Skill Effect Duration",增加25%技能效果持續時間
+"25% increased Skill Effect Duration","增加 25% 技能效果持續時間"
 "+5% Chance to Block Attack Damage while holding a Shield","持盾時 +5% 攻擊傷害格擋率"
 "30% increased Attack Damage while holding a Shield","持盾時增加 30% 攻擊傷害"
 "15% increased Mana Recovery from Flasks","增加 15% 來自藥劑的魔力恢復"
@@ -710,7 +710,7 @@
 "Overwhelm 10% Physical Damage Reduction","鎮壓 10% 物理傷害減免"
 "Gain 15 Mana per Enemy Killed","每個被擊殺的敵人，獲得 15 魔力"
 "10% reduced Mana Cost of Skills","減少 10% 技能魔力消耗"
-"15% increased Mana Regeneration Rate",增加15%魔力回復率
+"15% increased Mana Regeneration Rate","增加 15% 魔力恢復率"
 "Gain 3% of Maximum Life as Extra Maximum Energy Shield","獲得等同 3% 最大生命值的額外能量護盾"
 "45% increased Critical Strike Chance","增加 45% 暴擊率"
 "+15% to Critical Strike Multiplier","+15% 基礎暴擊加成"
@@ -748,7 +748,7 @@
 "12% increased Accuracy Rating while Dual Wielding","雙持武器時增加 12% 命中值"
 "12% increased Accuracy Rating with Two Handed Melee Weapons","使用雙手近戰武器時增加 12% 命中值"
 "6% of Damage taken Recouped as Life","承受 6% 傷害補償為生命"
-"15% increased Damage",增加15%傷害
+"15% increased Damage","增加 15% 傷害"
 "5% increased Attack and Cast Speed","增加 5% 攻擊與施放速度"
 "10% increased Light Radius","增加 10% 照亮範圍"
 "22% increased maximum Mana","增加 22% 最大魔力"
@@ -832,7 +832,7 @@
 "Enemies Ignited or Chilled by you have -5% to Elemental Resistances","你點燃或冰緩的敵人 -5% 元素抗性"
 "100% increased Critical Strike Chance against Shocked Enemies","對感電的敵人增加 100% 暴擊率"
 "15% increased Endurance Charge Duration","增加 15% 耐力球持續時間"
-"4% increased Movement Speed",增加4%移動速度
+"4% increased Movement Speed","增加 4% 移動速度"
 "Cannot be Stunned",不會被暈眩
 "10% increased Movement Speed","增加 10% 移動速度"
 "Action Speed cannot be modified to below base value",行動速度不能被調整至低於基礎值
@@ -852,7 +852,7 @@
 "+4% to Chaos Resistance per Endurance Charge","每顆耐力球 +4% 混沌抗性"
 "1% additional Physical Damage Reduction per Endurance Charge","每顆耐力球有 1% 額外物理傷害減免"
 "8% reduced Elemental Damage taken while at Maximum Endurance Charges","耐力球達到上限時，減少 8% 受到的元素傷害"
-"40% increased Life Regeneration rate","增加 40% 生命回復率"
+"40% increased Life Regeneration rate","增加 40% 生命恢復率"
 "1.5% of Physical Damage prevented from Hits in the past\n10 seconds is Regenerated as Life per second","過去 10 秒阻止擊中的 1.5% 總物理傷害會每秒回復生命"
 "30% increased total Recovery per second from Life Leech","增加 30% 生命偷取的每秒總恢復"
 "20% increased Warcry Speed","增加 20% 戰吼施放速度"
@@ -1100,7 +1100,7 @@ Battlemage,戰法
 "10% increased Effect of Arcane Surge on you","增加你身上秘能波動 10% 效果"
 "20% increased Totem Placement speed","增加 20% 圖騰放置速度"
 "30% increased maximum Mana","增加 30% 最大魔力"
-"10% of Damage is taken from Mana before Life",生命值所受的10%傷害由魔力扣除
+"10% of Damage is taken from Mana before Life","生命值所受的 10% 傷害由魔力扣除"
 "Transfiguration of Mind",意志扭曲
 "50% less Mana Cost of Skills","50% 更少技能消耗魔力"
 "Gain 20% of Maximum Mana as Extra Maximum Energy Shield","獲得等同 20% 魔力的額外能量護盾"
@@ -1121,7 +1121,7 @@ Battlemage,戰法
 "50% increased Effect of Arcane Surge on you","增加你身上秘能波動 50% 效果"
 "Gain Arcane Surge when you or your Totems Hit an Enemy with a Spell",當你或你的圖騰使用法術擊中敵人時獲得秘能波動
 "14% increased Brand Damage","增加 14% 烙印傷害"
-"Brand Recall has 100% increased Cooldown Recovery Rate","烙印呼喚增加 100% 冷卻時間恢復速度"
+"Brand Recall has 100% increased Cooldown Recovery Rate","烙印呼喚增加 100% 冷卻時間恢復率"
 "Brands have 100% more Activation Frequency if 75% of Attached Duration expired","若烙印附著持續時間過去 75%，烙印有 100% 更多啟動頻率"
 "80% reduced Effect of Curses on you","減少在你身上的詛咒效果 80%"
 "Every 4 seconds, Regenerate 30% of Life over one second","每 4 秒在 1 秒內回復 30% 生命"
@@ -1175,7 +1175,7 @@ Battlemage,戰法
 "Prevent +10% of Suppressed Spell Damage while on Full Energy Shield","滿能量護盾時，防止 +10% 壓抑法術傷害"
 "40% increased total Recovery per second from Energy Shield Leech","增加 40% 能量護盾偷取的每秒總恢復"
 "Your Action Speed is at least 108% of base value","你的行動速度至少為基礎值的 108%"
-"10% increased Damage",增加10%傷害
+"10% increased Damage","增加 10% 傷害"
 "10% increased Mine Damage","增加 10% 地雷傷害"
 "10% increased Trap Damage","增加 10% 陷阱傷害"
 "Immune to Ignite and Shock",免疫點燃和感電
@@ -1240,11 +1240,11 @@ Battlemage,戰法
 "15% increased effect of Non-Curse Auras from your Skills","增加 15% 你技能的非詛咒光環效果"
 "Enemies Taunted by you take 10% increased Damage","受到你嘲諷的敵人增加 10% 承受的傷害"
 "Melee Hits have 50% chance to Fortify","近戰擊中有 50% 機率護體"
-"Damage Penetrates 8% of Enemy Elemental Resistances",傷害穿透敵人8%的元素抗性
+"Damage Penetrates 8% of Enemy Elemental Resistances","傷害穿透敵人 8% 的元素抗性"
 "10% chance to create Consecrated Ground when you Hit a Rare or Unique Enemy, lasting 8 seconds","你擊中稀有或傳奇敵人時有 10% 機率製造奉獻地面，持續 8 秒"
 "25% increased maximum Mana","增加 25% 最大魔力"
 "25% increased Effect of Arcane Surge on you","增加你身上秘能波動 25% 效果"
-"8% of Damage is taken from Mana before Life",生命值所受的8%傷害由魔力扣除
+"8% of Damage is taken from Mana before Life","生命值所受的 8% 傷害由魔力扣除"
 "25% reduced Effect of Curses on you","減少在你身上的詛咒效果 25%"
 "Every 4 seconds, Regenerate 20% of Life over one second","每 4 秒在 1 秒內回復 20% 生命"
 "10% chance to gain Elusive on Critical Strike","暴擊時有 10% 機率獲得靈巧"
@@ -1275,7 +1275,7 @@ Battlemage,戰法
 "20% increased Duration of Elemental Ailments on Enemies","增加 20% 敵人身上元素異常狀態時間"
 "30% increased Trap Trigger Area of Effect","增加 30% 陷阱觸發範圍"
 "50% increased Trap Trigger Area of Effect","增加 50% 陷阱觸發範圍"
-"10% increased Cooldown Recovery Rate for throwing Traps","增加 10% 陷阱冷卻恢復速度"
+"10% increased Cooldown Recovery Rate for throwing Traps","增加 10% 陷阱冷卻時間恢復率"
 "Skills which Throw Traps have +1 Cooldown Use","投擲陷阱的技能 +1 冷卻使用次數"
 "20% increased Trap Trigger Area of Effect","增加 20% 陷阱觸發範圍"
 "12% increased Trap Throwing Speed","增加 12% 陷阱投擲速度"
@@ -1331,7 +1331,7 @@ Battlemage,戰法
 "10% increased Brand Damage","增加 10% 烙印傷害"
 "Brand Skills have 10% increased Duration","烙印技能增加 10% 持續時間"
 "10% increased Brand Attachment range","增加 10% 烙印附著距離"
-"Brand Recall has 10% increased Cooldown Recovery Rate","烙印呼喚增加 10% 冷卻時間恢復速度"
+"Brand Recall has 10% increased Cooldown Recovery Rate","烙印呼喚增加 10% 冷卻時間恢復率"
 "12% increased Cast Speed with Brand Skills","增加 12% 烙印技能施放速度"
 "Enemies take 5% increased Damage for each of your Brands Attached to them","每個你附著敵人身上的烙印，增加 5% 他們承受傷害"
 "25% increased Brand Critical Strike Chance","增加 25% 烙印暴擊率"
@@ -1370,7 +1370,7 @@ Battlemage,戰法
 "Gain 4 Life per Enemy Hit with Attacks","每用攻擊擊中一個敵人，獲得 4 生命"
 "4% increased Cast Speed while Dual Wielding","雙持武器時增加 4% 施放速度"
 "3% increased Cast Speed while Dual Wielding","雙持武器時增加 3% 施放速度"
-"15% increased Cooldown Recovery Rate of Movement Skills","增加 15% 位移技能的冷卻時間恢復速度"
+"15% increased Cooldown Recovery Rate of Movement Skills","增加 15% 位移技能的冷卻時間恢復率"
 "10% increased Spell Damage while Dual Wielding","雙持時增加 10% 法術傷害"
 "3% increased Movement Speed while Dual Wielding","雙持時增加 3% 移動速度"
 "6% increased Cast Speed while Dual Wielding","雙持武器時增加 6% 施放速度"
@@ -1410,7 +1410,7 @@ Battlemage,戰法
 "10% increased Melee Damage","增加 10% 近戰傷害"
 "Melee Skills have 5% increased Area of Effect","近戰技能增加 5% 範圍效果"
 "Melee Skills have 20% increased Area of Effect","近戰技能增加 20% 範圍效果"
-"30% increased Cooldown Recovery Rate of Movement Skills","增加 30% 位移技能的冷卻時間恢復速度"
+"30% increased Cooldown Recovery Rate of Movement Skills","增加 30% 位移技能的冷卻時間恢復率"
 "15% increased Blind Effect","增加 15% 致盲效果"
 "40% increased Blind duration","增加 40% 致盲持續時間"
 "40% increased Blind Effect","增加 40% 致盲效果"
@@ -1563,8 +1563,8 @@ Battlemage,戰法
 "Recover 2% of Life when you Kill a Cursed Enemy","當你擊殺被詛咒的敵人時，恢復 2% 生命"
 "Cursed Enemies you Kill are destroyed",你擊殺被詛咒的敵人被摧毀
 "Enemies you Curse cannot Recharge Energy Shield",你詛咒的敵人不能充能能量護盾
-"Enemies Cursed by you have 50% reduced Life Regeneration Rate","你詛咒的敵人減少 50% 生命回復率"
-"8% increased Mana Regeneration Rate per Power Charge","每個暴擊球增加 8% 魔力回復率"
+"Enemies Cursed by you have 50% reduced Life Regeneration Rate","你詛咒的敵人減少 50% 生命恢復率"
+"8% increased Mana Regeneration Rate per Power Charge","每個暴擊球增加 8% 魔力恢復率"
 "8% increased Critical Strike Chance per Power Charge","每個暴擊球增加 8% 暴擊率"
 "+1 to Minimum Power Charges","+1 最小暴擊球"
 "8% increased Damage per Power Charge","每顆暴擊球增加 8% 傷害"
@@ -1572,16 +1572,16 @@ Battlemage,戰法
 "2% increased Spell Damage per 100 Maximum Mana, up to 40%","每 100 最大魔力增加 2% 法術傷害，最多 40%"
 "2% Chance to Block Spell Damage","2% 法術傷害格擋率"
 "6% Chance to Block Spell Damage","6% 法術傷害格擋率"
-"1% increased Mana Regeneration Rate per 1% Chance to Block Spell Damage","每 1% 法術傷害格擋率，增加 1% 魔力回復率"
+"1% increased Mana Regeneration Rate per 1% Chance to Block Spell Damage","每 1% 法術傷害格擋率，增加 1% 魔力恢復率"
 "5% increased Flask Charges gained","增加 5% 藥劑充能獲取"
 "10% increased Mana Recovery from Flasks","增加 10% 來自藥劑的魔力恢復"
 "25% increased Flask Charges gained","增加 25% 藥劑充能獲取"
 "15% increased Mana Recovery Rate during Effect of any Mana Flask","任何魔力藥劑效果期間，增加 15% 魔力恢復率"
 "Minions have 30% increased Movement Speed","召喚物增加 30% 移動速度"
 "Minions have 30% chance to gain Onslaught for 4 seconds on Kill","召喚物擊殺時有 30% 機率獲得猛攻 4 秒"
-"12% increased Minion Duration",增加12%召喚物持續時間
-"20% increased Minion Duration",增加20%召喚物持續時間
-"20% increased Skill Effect Duration",增加20%技能效果持續時間
+"12% increased Minion Duration","增加 12% 召喚物持續時間"
+"20% increased Minion Duration","增加 20% 召喚物持續時間"
+"20% increased Skill Effect Duration","增加 20% 技能效果持續時間"
 "Minions deal 30% increased Damage if you've used a Minion Skill Recently","若你近期有使用召喚物技能，召喚物增加 30% 傷害"
 "Minions have 20% increased Critical Strike Chance","召喚物增加 20% 暴擊率"
 "Minions have 25% increased Critical Strike Chance","召喚物增加 25% 暴擊率"
@@ -1631,7 +1631,7 @@ Battlemage,戰法
 "Attacks have 15% chance to Ignite","火焰傷害的攻擊有 15% 機率點燃敵人"
 "+6% to Fire Damage over Time Multiplier with Attack Skills","攻擊技能 +6% 火焰持續傷害加成"
 "Using Warcries is Instant\nWarcries share their Cooldown","戰吼為立即施放\n戰吼共享冷卻時間"
-"50% less Life Regeneration Rate\n50% less maximum Total Life Recovery per Second from Leech\nEnergy Shield Recharge instead applies to Life","50% 更少生命回復率\n50% 更少來自偷取的每秒最大總恢復\n能量護盾充能套用至生命"
+"50% less Life Regeneration Rate\n50% less maximum Total Life Recovery per Second from Leech\nEnergy Shield Recharge instead applies to Life","50% 更少生命恢復率\n50% 更少來自偷取的每秒最大總恢復\n能量護盾充能套用至生命"
 "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits","格擋攻擊傷害率加倍\n格擋法術傷害率加倍\n你承受 65% 已格擋擊中的傷害"
 "20% less Attack Damage taken if you haven't been Hit by an Attack Recently\n10% more chance to Evade Attacks if you have been Hit by an Attack Recently\n20% more Attack Damage taken if you have been Hit by an Attack Recently","若你近期沒有被擊中，承受 20% 更少攻擊傷害\n若你近期被攻擊擊中，10% 更多閃避攻擊率\n若你近期被攻擊擊中，承受 20% 更多攻擊傷害"
 "Maximum Energy Shield is 0\nWhile not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life","最大能量護盾為 0\n當不是滿血時，每秒獻祭 20% 魔力回復等值的生命"
@@ -1639,7 +1639,7 @@ Battlemage,戰法
 "10% increased Warcry Buff Effect","增加 10% 戰吼的增益效果"
 "15% increased Warcry Speed","增加 15% 戰吼施放速度"
 "15% increased Warcry Duration","增加 15% 戰吼持續時間"
-"12% increased Warcry Cooldown Recovery Rate","增加 12% 戰吼冷卻恢復速度"
+"12% increased Warcry Cooldown Recovery Rate","增加 12% 戰吼冷卻時間恢復率"
 "Warcry Skills have 15% increased Area of Effect","戰吼技能增加 15% 範圍效果"
 "10% increased Warcry Cooldown Recovery Rate","增加 10% 戰吼冷卻恢復率"
 "Warcry Skills have 20% increased Area of Effect","戰吼技能增加 20% 範圍效果"
@@ -1693,15 +1693,15 @@ Battlemage,戰法
 "Spell Skills have +12% to Damage over Time Multiplier for Poison","法術技能 +12% 中毒持續傷害加成"
 "Enemies Poisoned by you have -5% to Chaos Resistance","被你中毒影響的敵人 -5% 混沌抗性"
 "5% increased Mana Cost of Skills","增加 5% 技能魔力消耗"
-"10% increased Mana Cost of Skills",增加10%技能魔力消耗
+"10% increased Mana Cost of Skills","增加 10% 技能魔力消耗"
 "18% of Damage taken Recouped as Life","承受 18% 傷害補償為生命"
 "100% chance to Defend with 200% of Armour\nMaximum Damage Reduction for any Damage Type is 50%","100% 機率用 200% 護甲防禦\n對任何傷害類型的最大傷害減免為 50%"
 "When your Hits Impale Enemies, also Impale other Enemies near them\nInflict 4 additional Impales on Enemies you Impale\nFor 4 seconds after you Impale Enemies, they cannot be Impaled again, and Impales cannot be Called from them","當你的擊中穿刺敵人時，同時穿刺他們附近敵人\n對你穿刺的敵人造成 4 次額外穿刺\n你穿刺敵人後 4 秒，他們不能再次被穿刺，鋼之呼喚不能從他們身上移除穿刺"
 "Brand Skills have 12% increased Duration","烙印技能增加 12% 持續時間"
 "Brand Skills have 15% increased Duration","烙印技能增加 15% 持續時間"
-"Brand Recall has 15% increased Cooldown Recovery Rate","烙印呼喚增加 15% 冷卻時間恢復速度"
+"Brand Recall has 15% increased Cooldown Recovery Rate","烙印呼喚增加 15% 冷卻時間恢復率"
 "Brand Skills have 20% increased Duration","烙印技能增加 20% 持續時間"
-"Brand Recall has 20% increased Cooldown Recovery Rate","烙印呼喚增加 20% 冷卻時間恢復速度"
+"Brand Recall has 20% increased Cooldown Recovery Rate","烙印呼喚增加 20% 冷卻時間恢復率"
 "You can Cast 2 additional Brands","你可以施放 2 個額外烙印"
 "30% increased Chaining range","增加 30% 連鎖範圍"
 "Projectiles have 50% chance for an additional Projectile when Forking","投射物分裂時有 50% 機率有 1 個額外投射物"
@@ -1725,7 +1725,7 @@ Battlemage,戰法
 "Marked Enemy has 10% reduced Accuracy Rating","被印記的敵人減少 10% 命中值"
 "Marked Enemy takes 10% increased Damage","被印記的敵人增加 10% 承受傷害"
 "Marked Enemy grants 30% increased Flask Charges to you","被印記的敵人使你增加 30% 藥劑充能"
-"15% increased Life Regeneration rate",增加15%生命回復率
+"15% increased Life Regeneration rate","增加 15% 生命恢復率"
 "+6% to Physical Damage over Time Multiplier","+6% 物理持續傷害加成"
 "Overwhelm 5% Physical Damage Reduction","鎮壓 5% 物理傷害減免"
 "40% increased Physical Damage","增加 40% 物理傷害"
@@ -1779,7 +1779,7 @@ Battlemage,戰法
 "50% increased Stun and Block Recovery","增加 50% 暈眩恢復和格擋恢復"
 "Regenerate 5% of Life over 1 second when Stunned","當暈眩時，1 秒內回復 5% 生命"
 "Regenerate 5% of Energy Shield over 1 second when Stunned","當暈眩時，1 秒內回復 5% 能量護盾"
-"10% increased Cooldown Recovery Rate for Stance Skills","增加 10% 姿態技能冷卻時間恢復速度"
+"10% increased Cooldown Recovery Rate for Stance Skills","增加 10% 姿態技能冷卻時間恢復率"
 "5% increased Attack Speed with Bows","使用弓類武器時增加 5% 攻擊速度"
 "You have Onslaught if you've changed Stance Recently",若你近期切換姿態，你獲得猛攻
 "Bow Attacks fire an additional Arrow","弓攻擊發射 1 個額外箭矢"
@@ -1824,11 +1824,11 @@ Battlemage,戰法
 "Hits have 20% chance to deal 50% more Area Damage","擊中有 20% 機率造成 50% 更多範圍傷害"
 "25% chance for Flasks you use to not consume Charges","25% 機率使你使用藥劑時不消耗充能"
 "Arcane Surge grants 10% more Spell Damage to you","你獲得的秘能波動有 10%更多法術傷害"
-"15% increased Cooldown Recovery Rate","增加 15% 冷卻恢復速度"
+"15% increased Cooldown Recovery Rate","增加 15% 冷卻時間恢復率"
 "Hits have 15% chance to deal 50% more Area Damage","擊中有 15% 機率造成 50% 更多範圍傷害"
 "40% increased Melee Damage with Hits at Close Range","增加 40% 近距離的擊中近戰傷害"
 "10% chance to create Consecrated Ground on Melee Kill, lasting 4 seconds","近戰擊殺時有 10% 機率製造奉獻地面，持續 4 秒"
-"15% increased Warcry Cooldown Recovery Rate","增加 15% 戰吼冷卻恢復速度"
+"15% increased Warcry Cooldown Recovery Rate","增加 15% 戰吼冷卻時間恢復率"
 "Attacks fire an additional Projectile","攻擊發射 1 個額外投射物"
 "15% increased Damage for each time you've Warcried Recently","近期每次你獲得戰吼增加 15% 傷害"
 "20% increased Warcry Buff Effect","增加 20% 戰吼的增益效果"
@@ -1848,7 +1848,7 @@ Battlemage,戰法
 "8% increased Effect of your Marks","增加 8% 你印記的效果"
 "20% increased Effect of your Marks","增加 20% 你印記的效果"
 "30% chance to Ignore Stuns while Casting","施放時，有 30% 機率無視暈眩"
-"30% increased Mana Regeneration Rate while stationary","站立時，增加 30% 魔力回復率"
+"30% increased Mana Regeneration Rate while stationary","站立時，增加 30% 魔力恢復率"
 "Every 4 seconds, Regenerate 15% of Life over one second","每 4 秒在 1 秒內回復 15% 生命"
 "Regenerate 4% of Life per second while on Low Life","貧血時每秒回復 4% 生命"
 "60% increased Freeze Duration on Enemies","增加 60% 敵人冰凍持續時間"
@@ -1969,7 +1969,7 @@ Battlemage,戰法
 "+3% Elemental Resistances while holding a Shield","持盾時 +3% 元素抗性"
 "+5% Elemental Resistances while holding a Shield","持盾時 +5% 元素抗性"
 "Staff Attacks deal 16% increased Damage with Hits and Ailments","長杖攻擊增加 16% 擊中和異常狀態傷害"
-"15% increased Area of Effect",增加15%範圍效果
+"15% increased Area of Effect","增加 15% 範圍效果"
 "Gain 1 Rage on Hit with Axes","以斧擊中時獲得 1 層盛怒"
 "1.5% of Physical Attack Damage Leeched as Life","1.5% 的物理攻擊傷害偷取生命"
 "+8% to Lightning Resistance","+8% 閃電抗性"
@@ -2039,7 +2039,7 @@ Battlemage,戰法
 "Gain 1 Gale Force when you use a Skill\n10% increased Effect of Tailwind on you per Gale Force","當你使用技能時獲得 1 颶風之力\n每個颶風之力增加 10% 你身上流順之風的效果"
 "4% less Damage taken per Gale Force","每個颶風之力承受 4% 更少傷害"
 "+3% Chance to Block Attack Damage","+3% 攻擊傷害格擋率"
-"10% increased Damage with One Handed Weapons",持單手武器時增加10%傷害
+"10% increased Damage with One Handed Weapons","持單手武器時增加 10% 傷害"
 "Bleeding Enemies you Kill Explode, dealing 20% of\ntheir Maximum Life as Physical Damage","擊殺流血的敵人時產生爆炸，造成等同其 20% 最大生命的物理傷害"
 "Bleeding you inflict is Aggravated",你造成的流血為加劇
 "20% of Leech is Instant while wielding a Claw","持爪時， 20% 生命偷取變為立即生效"
@@ -2086,7 +2086,7 @@ Battlemage,戰法
 "+10% Chance to Block Attack Damage while wielding a Staff","持長杖時 +10% 攻擊傷害格擋率"
 "15% increased Totem Damage","增加 15% 圖騰傷害"
 "Your Warcries do not grant Buffs or Charges to You\n100% more Warcry Duration","你的戰吼不會給予你增益效果或充能球\n戰吼持續時間增加 100%"
-"35% increased Warcry Cooldown Recovery Rate","增加 35% 戰吼冷卻恢復速度"
+"35% increased Warcry Cooldown Recovery Rate","增加 35% 戰吼冷卻時間恢復率"
 "Warcry Skills have 40% increased Area of Effect","戰吼技能增加 40% 範圍效果"
 "Banner Skills have 20% increased Duration","鬥旗技能增加 20% 持續時間"
 "Banner Buffs Linger on you for 3 seconds after you leave the Area","離開區域後，鬥旗增益效果會多留存 3 秒"
@@ -2108,7 +2108,7 @@ Battlemage,戰法
 "+10 to maximum Valour","+10 最大勇氣"
 "Banner Skills have 10% increased Aura Effect","鬥旗技能增加 10% 光環效果"
 "30% increased Damage with Bleeding","增加 30% 流血傷害"
-"20% increased Bleeding Duration",增加20%流血持續時間
+"20% increased Bleeding Duration","增加 20% 流血持續時間"
 "30% reduced Bleed Duration on you","減少 30% 你身上流血的持續時間"
 "+12% to Damage over Time Multiplier for Bleeding","流血 +12% 持續傷害加成"
 "2% increased Attack Speed","增加 2% 攻擊速度"
@@ -2118,7 +2118,7 @@ Battlemage,戰法
 "0.5% of Physical Attack Damage Leeched as Mana","0.5% 物理攻擊傷害偷取魔力"
 "Tinctures applied to you have 5% reduced Mana Burn rate","套用在你身上的萃取物減少 5% 魔力灼燒速度"
 "Tinctures applied to you have 8% increased Effect","作用於你的萃取物增加 8% 效果"
-"25% increased Tincture Cooldown Recovery Rate","增加 25% 萃取物冷卻時間恢復速度"
+"25% increased Tincture Cooldown Recovery Rate","增加 25% 萃取物冷卻時間恢復率"
 "Tinctures applied to you have 15% increased Effect","作用於你的萃取物增加 15% 效果"
 "Tinctures applied to you have 15% increased Effect if you've used a Life Flask Recently","若你近期有使用生命藥劑，套用在你身上的萃取物增加 15% 效果"
 "Tinctures applied to you have 10% reduced Mana Burn rate","套用在你身上的萃取物減少 10% 魔力灼燒速度"
@@ -2159,7 +2159,7 @@ Battlemage,戰法
 "6% increased Energy Shield Recharge Rate for each different type of Mastery you have Allocated","根據你配置每個不同類型的專精，能量護盾充能率增加 6%"
 "Elusive on you reduces in effect 50% slower","靈巧效果隨時間減少的速度減緩 50%"
 "Elusive is removed from you at 20% effect","20% 效果時移除靈巧效果"
-"5% increased Cooldown Recovery Rate for throwing Traps per Mine Detonated Recently","每個近期引爆的地雷，增加 5% 投擲陷阱的冷卻恢復速度"
+"5% increased Cooldown Recovery Rate for throwing Traps per Mine Detonated Recently","每個近期引爆的地雷，增加 5% 投擲陷阱的冷卻時間恢復率"
 "Create Fungal Ground instead of Consecrated Ground",製造毒菌地面而不是奉獻地面
 "Flasks adjacent to active Tinctures gain 3 charges when you Hit an\nEnemy with a Melee Weapon, no more than once every second","當你使用近戰武器擊中敵人時，與啟用萃取物相鄰的藥劑\n獲得 3 充能，每秒不超過 1 次"
 "Flasks adjacent to applied Tincture have 30% increased Effect when\nused if you've Hit an enemy with a Weapon Recently","若你近期有使用武器擊中敵人，當使用時相鄰套用萃取物的藥劑增加 30% 效果"
@@ -2179,8 +2179,8 @@ Battlemage,戰法
 "Retaliation Skills have 6% increased Speed","復仇技能增加 6% 速度"
 "+3% chance to Block Spell Damage while holding a Shield","持盾時 +3% 法術傷害格擋率"
 "Retaliation Skills become Usable for 20% longer","復仇技能變為可使用的持續時間增加 20%"
-"Retaliation Skills have 15% increased Cooldown Recovery Rate","復仇技能增加 15% 冷卻恢復速度"
-"Retaliation Skills have 12% increased Cooldown Recovery Rate","復仇技能增加 12% 冷卻恢復速度"
+"Retaliation Skills have 15% increased Cooldown Recovery Rate","復仇技能增加 15% 冷卻時間恢復率"
+"Retaliation Skills have 12% increased Cooldown Recovery Rate","復仇技能增加 12% 冷卻時間恢復率"
 "Retaliation Skills have 8% increased Speed","復仇技能增加 8% 速度"
 "Retaliation Skills deal 20% increased Damage","復仇技能增加 20% 傷害"
 "Retaliation Skills have 15% increased Area of Effect","復仇技能增加 15% 效果範圍"
@@ -4158,7 +4158,7 @@ Battlemage,戰法
 "15% increased [Attack] Speed while not on Low Mana",未處於貧魔狀態時，增加15%[Attack|攻擊]速度
 "Cannot be [Blind|Blinded]",不會被[Blind|致盲]
 "12% chance to [Blind] Enemies on [HitDamage|Hit]",[HitDamage|擊中]敵人時有12%機率[Blind|致盲]
-"10% increased Life Recovery rate",增加10%生命回復率
+"10% increased Life Recovery rate","增加 10% 生命恢復率"
 "10% increased [BuffMagnitude|Magnitude] of [NonDamagingAilments|Non-Damaging Ailments] you inflict",增加10%你所施加之[NonDamagingAilments|非傷害型異常狀態]的[BuffMagnitude|幅度]
 "[Gain] 8% of [Physical] Damage as Extra [Cold] Damage against [Shock|Shocked] Enemies",對於受[Shock|感電]敵人，[Gain|獲得]等同於[Physical|物理]傷害8%的額外[Cold|冰冷]傷害
 "[Gain] 8% of [Physical] Damage as Extra [Lightning] Damage against [Chill|Chilled] Enemies",對於受[Chill|冰緩]敵人，[Gain|獲得]等同於[Physical|物理]傷害8%的額外[Lightning|閃電]傷害
@@ -4512,7 +4512,7 @@ Battlemage,戰法
 "-20% to all [ElementalDamage|Elemental] [Resistances]",-20%全[ElementalDamage|元素][Resistances|抗性]
 "15% increased [Charm] Charges gained",增加15%[Charm|護符]充能獲取
 "25% increased bonuses gained from Equipped Rings and Amulets",增加25%自已裝備戒指和項鍊獲得的加成
-"+1 Ring Slot",戒指欄位+1
+"+1 Ring Slot","+1 戒指槽位"
 "20% more [Charm] Charges gained",獲得20%更多[Charm|護符]充能
 "Can instead consume 25% of maximum Mana to trigger [Charm|Charms] with insufficient charges",[Charm|護符]的充能不足時，可改為消耗25%最大魔力觸發之
 "10% increased Life Recovery rate per 5% missing Unreserved Life",每損失5%未保留生命，增加10%生命回復率
@@ -4555,7 +4555,7 @@ Battlemage,戰法
 "Mark Skills Cost no Mana",印記技能不消耗魔力
 "Marked Enemy cannot Evade Attacks",被印記的敵人無法閃避攻擊
 "Trigger Level 30 Assassin's Mark on Attack Critical Strike against\na Rare or Unique Enemy and you have no Mark","在你沒有已施加印記的敵人時，\n攻擊稀有或傳奇敵人且造成暴擊會觸發等級 30 的刺客印記"
-"+100% to Critical Strike Multiplier against Enemies that are on Low Life","對貧血的敵人減少 +100% 暴擊加成"
+"+100% to Critical Strike Multiplier against Enemies that are on Low Life","對貧血的敵人 +100% 暴擊加成"
 "100% more Critical Strike Chance against Enemies that are not on Low Life","對非貧血的敵人有 100% 更多暴擊率"
 "35% less Damage taken while there are at least two Rare or Unique Enemies nearby","周圍至少有兩個以上的稀有或傳奇敵人時，承受 35% 更少傷害"
 "Poison you inflict with Critical Strikes deals 20% more Damage","你暴擊造成的中毒造成 20% 更多傷害"
@@ -4564,7 +4564,7 @@ Battlemage,戰法
 "100% increased Elusive Effect","增加 100% 靈巧效果"
 "Unaffected by Damaging Ailments",不被傷害型異常狀態影響
 "40% of Physical Damage taken Recouped as Life","40% 承受的物理傷害補償為生命"
-"+100% to Critical Strike Multiplier against Enemies that are not on Low Life","對非貧血的敵人增加 +100% 暴擊加成"
+"+100% to Critical Strike Multiplier against Enemies that are not on Low Life","對非貧血的敵人 +100% 暴擊加成"
 "All Damage from Hits can Poison",全部來自擊中的傷害可以造成中毒
 "Every 10 seconds:\nTake 50% less Damage from Hits for 5 seconds\nTake 50% less Damage over Time for 5 seconds","每 10 秒:\n5 秒承受 50% 更少來自擊中傷害\n5 秒承受 50% 更少持續傷害"
 "+4 to Evasion Rating per 1 Maximum Energy Shield on Equipped Helmet","裝備的頭盔每 1 最大能量護盾 +4 閃避值"
@@ -4588,14 +4588,14 @@ Battlemage,戰法
 "16% increased Damage Over Time with Spell Skills","法術技能的持續傷害增加 16%"
 "+4% to Damage Over Time Multiplier with Spell Skills","+4% 法術技能的持續傷害加成"
 "+6% to Damage Over Time Multiplier with Spell Skills","+6% 法術技能的持續傷害加成"
-"6% increased Skill Effect Duration",增加6%技能效果持續時間
+"6% increased Skill Effect Duration","增加 6% 技能效果持續時間"
 "10% reduced Skill Effect Duration","減少 10% 技能效果持續時間"
 "30% increased Damage Over Time with Spell Skills","法術技能的持續傷害增加 30%"
 "20% reduced Duration of Ailments on You","減少 20% 你身上的異常狀態持續時間"
 "+12% to Damage Over Time Multiplier with Spell Skills","+12% 法術技能的持續傷害加成"
 "5% chance to Defend with 200% of Armour for each\ntime you've been Hit by an Enemy Recently, up to 30%","近期內你每被擊中一次，\n有 5% 機率使用 200% 護甲防禦，至多 30%"
 "You have Shepherd of Souls if at least 4 Corrupted Items are Equipped",當你裝備至少4件腐化裝備時，獲得靈魂牧者
-"You have Sacrifice of Blood if at least 8 Corrupted Items are Equipped",當你裝備至少6件腐化裝備時，獲得鮮血獻祭
+"You have Sacrifice of Blood if at least 8 Corrupted Items are Equipped",當你裝備至少8件腐化裝備時，獲得鮮血獻祭
 "You have Everlasting Sacrifice if at least 6 Corrupted Items are Equipped",當你裝備至少6件腐化裝備時，獲得永恆奉獻
 "Vaal Skills have 20% chance to regain consumed Souls when used","使用瓦爾技能時有 20% 機率回收消耗的靈魂"
 "20% reduced Soul Gain Prevention Duration","減少 20% 停止獲得靈魂持續時間"
@@ -4671,7 +4671,7 @@ Battlemage,戰法
 "Minions deal 80% increased Damage if you have Warcried Recently","若你近期內曾使用戰吼，召喚物造成的傷害提高 80%"
 "25% increased Warcry Speed","增加 25% 戰吼施放速度"
 "Raised Beast Spectres have Farrul's Farric Presence",喚醒野獸幽魂有費爾羅光環
-"Raised Beast Spectres have 3 additional modifiers randomly chosen in each Area",喚醒野獸幽魂在每個區域中有額外3條隨機選擇的詞綴
+"Raised Beast Spectres have 3 additional modifiers randomly chosen in each Area",喚醒野獸幽魂在每個區域內有額外3條隨機選擇的詞綴
 "Raised Beast Spectres have Farrul's Fertile Presence",喚醒野獸幽魂有豐富光環
 "Raised Beast Spectres have Farrul's Wild Presence",喚醒野獸幽魂有狂野光環
 "Maximum number of Raised Spectres is 1","喚醒幽魂上限為 1"
@@ -5186,7 +5186,7 @@ Battlemage,戰法
 "Gain 10% of Physical Damage as Extra Lightning Damage for each of your Hallowing Flames that have been removed by an allied hit recently, up to 80%",近期來自友方的擊中每移除一層你的聖徒烈火，你即獲得10%物理傷害的額外閃電傷害，最高80%
 "Damage cannot be Reflected",傷害不能被反射
 "Damage of Enemies Hitting you is Unlucky",敵人擊中你的傷害很不幸
-"50% increased Cooldown Recovery Rate","增加 50% 冷卻恢復速度"
+"50% increased Cooldown Recovery Rate","增加 50% 冷卻時間恢復率"
 "30% less Damage with Triggered Spells","被觸發的法術有 30% 更少傷害"
 "Arcane Surge also grants 10% more Spell Damage to you",秘能波動同時會賦予你10%更多法術傷害
 "Grants Level 30 Purity of Elements Skill","獲得等級 30 的元素淨化技能"
@@ -5231,9 +5231,9 @@ Battlemage,戰法
 "50% increased Effect of your Marks while Elusive",靈巧時增加50%你印記的效果
 "Skills gain Added Chaos Damage equal to 25% of Life Cost, if Life Cost is not higher than the maximum you could spend","若生命消耗沒有高於你最大可消耗的值，技能附加等同25% 生命消耗的混沌傷害"
 "Minions deal 20% more Damage while they are on Low Life",召喚物貧血時造成20%更多傷害
-"Discipline has 50% increased Aura Effect while at Minimum Power Charges",擁有最大暴擊球時，增加50%紀律光環效果
-"Determination has 50% increased Aura Effect while at Minimum Endurance Charges",擁有最大耐力球時，增加50%堅定光環效果
-"Grace has 50% increased Aura Effect while at Minimum Frenzy Charges",擁有最大狂怒球時，增加50%優雅光環效果
+"Discipline has 50% increased Aura Effect while at Minimum Power Charges",擁有最小暴擊球時，增加50%紀律光環效果
+"Determination has 50% increased Aura Effect while at Minimum Endurance Charges",擁有最小耐力球時，增加50%堅定光環效果
+"Grace has 50% increased Aura Effect while at Minimum Frenzy Charges",擁有最小狂怒球時，增加50%優雅光環效果
 "67% of Cold Damage Converted to Chaos Damage","67% 冰冷傷害轉換為混沌傷害"
 "67% of Fire Damage Converted to Chaos Damage","67% 火焰傷害轉換為混沌傷害"
 "67% of Lightning Damage Converted to Chaos Damage","67% 閃電傷害轉換為混沌傷害"
@@ -5246,7 +5246,7 @@ Battlemage,戰法
 "You gain Added Lighting Damage instead of Added Damage of other types if Intelligence exceeds both other Attributes",若你的智慧為你最高的能力值，你的其他附加傷害種類會改為附加閃電傷害
 "Maximum Baryatic Tension is equal to 30% of maximum Life",最大巨靈壓迫數量等同於30%最大生命
 "When you take a Savage Hit, lose Baryatic Tension to recover that much Life, up to maximum",當你承受殘暴打擊時，損失所有巨靈壓迫以回復同等生命，直到上限
-"Gain 20 Baryatic Tension per 20 Life Spent on Upfront Costs of Spells",每消耗20生命於前期消耗，獲得20巨靈壓迫
+"Gain 20 Baryatic Tension per 20 Life Spent on Upfront Costs of Spells",每消耗20生命於法術前期消耗，即獲得20巨靈壓迫
 "Damageable Minions deal 30% increased Damage for each second they have been alive,\nup to a maximum of 150%","可被傷害的召喚物會根據存活時間每秒增加30%傷害\n，最大150%"
 "Damageable Minions take 5% increased Damage for each second they have been alive,\nup to a maximum of 50%","可被傷害的召喚物會根據存活時間每秒增加5%承受傷害\n，最大50%"
 "Skills from Equipped Main Hand Weapon are supported by level 1 Cruelty",來自已裝備主手武器的技能被等級1的殘酷輔助
@@ -5484,3 +5484,150 @@ Battlemage,戰法
 "Bear Spirit gains [SpiritWalkerBearAura|Embrace of the Wild]",熊靈獲得[SpiritWalkerBearAura|荒野之擁]
 "Vivid Stags leap towards enemies",靈鹿會躍向敵人
 "Central [Projectile] of Owl Feather-[Empowered] Skills leaves a trail of [SoaringGround|Soaring Ground]",受貓頭鷹羽毛[Empowered|強化]技能的中心[Projectile|投射物]會留下一道怒號地面
+"6% increased Mana Cost Efficiency","增加 6% 魔力消耗效用"
+"12% increased Accuracy Rating","增加 12% 命中率"
+"20% increased Accuracy Rating","增加 20% 命中率"
+"8% increased Mana Cost Efficiency","增加 8% 魔力消耗效用"
+"10% increased Accuracy Rating","增加 10% 命中率"
+"8% increased Accuracy Rating","增加 8% 命中率"
+"Bow Attacks fire 1 additional Arrows","弓攻擊發射 1 個額外箭矢"
+"15% increased Accuracy Rating","增加 15% 命中率"
+"6% increased Accuracy Rating","增加 6% 命中率"
+"40% increased Accuracy Rating while you have at least 1 nearby Ally",如果你周遭至少有1名友方，增加40%命中值
+"40% increased Critical Strike Chance while wielding a Staff",持長杖時增加40%暴擊率
+"+30% to Critical Strike Multiplier while wielding a Staff",持長杖時+30%暴擊傷害加成
+"20% increased Mana Cost Efficiency of Curse Skills","增加 20% 詛咒技能的魔力消耗效用"
+"Projectiles Pierce 1 additional Targets","投射物穿透 1 個額外目標"
+"Mana Flasks gain 1 Charges every 3 seconds","魔力藥劑每 3 秒獲得 1 充能"
+"Life Flasks gain 1 Charges every 3 seconds","生命藥劑每 3 秒獲得 1 充能"
+"15% increased Mana Cost Efficiency","增加 15% 魔力消耗效用"
+"20% increased Critical Strike Chance while wielding a Staff",持長杖時增加20%暴擊率
+"+10% to Critical Strike Multiplier while wielding a Staff",持長杖時+10%暴擊傷害加成
+"30% increased Critical Strike Chance while wielding a Staff",持長杖時增加30%暴擊率
+"12% increased Mana Cost Efficiency","增加 12% 魔力消耗效用"
+"5% increased Cost Efficiency","增加 5% 消耗效用"
+"10% increased Cost Efficiency","增加 10% 消耗效用"
+"+16% to Critical Strike Multiplier with Totem Skills","+16% 圖騰技能暴擊加成"
+"50% increased Critical Strike Chance with Totem Skills","圖騰技能增加 50% 暴擊率"
+"30% increased Cost Efficiency of Attacks","增加 30% 攻擊的消耗效用"
+"Gain 1 Endurance Charges every second if you've been Hit Recently","若你近期被擊中，每秒獲得 1 顆耐力球"
+"Gain a Frenzy Charge every 1 seconds while Moving","移動時，每 1 秒獲得 1 顆狂怒球"
+"Gain [SpiritInfusion|Spirit Infusion] every 0.5 seconds while Channelling a Spell","引導法術時每 0.5 秒獲得[SpiritInfusion|靈魂灌注]"
+"50% increased Accuracy Rating","增加 50% 命中率"
+"Impales you inflict last 1 additional Hits","你造成的穿刺持續額外 1 次擊中"
+"+3 to Maximum Fanatic Charges","+3 最大狂熱球"
+"Gain Fanaticism for 5 seconds on reaching Maximum Fanatic Charges","到達最大狂熱球時獲得 5 秒狂熱"
+"3% more Damage per Summoned Totem","每個召喚圖騰有 3% 更多圖騰傷害"
+"You can inflict +1 Hallowing Flames on Enemies",你可以對敵人施加+1聖徒烈火
+"3% of Leech is Instant per maximum Power Charge","每個最大暴擊球會使 3% 偷取為立即"
+"10% increased Effect of your Marks per maximum Power Charge","每個最大暴擊球增加 10% 你的印記效果"
+"Spell Critical Strike Chance [BifurcatedCrit|Bifurcates]",法術暴擊率分岔
+"30% less Spell Critical Strike Chance","30% 更少法術暴擊率"
+"Skills fire 1 additional Projectiles","技能有額外 1 個投射物"
+"-5% to all maximum Elemental Resistances","-5% 全部最大元素抗性"
+"Elemental Resistances are capped by your highest Maximum Elemental Resistance instead",元素抗性上限改為你最高的元素抗性
+"20% of Maximum Life Converted to Energy Shield","20% 最大生命值轉換為能量護盾"
+"Projectiles that have Chained gain 20% of Non-Chaos Damage as extra Chaos Damage","有連鎖的投射物獲得 20% 非混沌傷害的額外混沌傷害"
+"-1 to Maximum Frenzy Charges","-1 最大狂怒球數量"
+"+100% to Critical Strike Multiplier while you have no Frenzy Charges",當你沒有狂怒球時，+100%暴擊傷害加成
+"20% more Accuracy Rating while at maximum Frenzy Charges",擁有最大狂怒球時擁有20%更多命中值
+"Trigger level 1 Suspend in Time on Casting a Spell",施放法術時觸發等級1的時禁凝滯
+"-12 Maximum Life per Level","每級 -12 最大生命"
+"+1 to Level of all Spell Skill Gems","全部法術技能寶石等級 +1"
+"30% chance for Energy Shield Recharge to start when you Block","當你格擋時，有 30% 機率開始充能能量護盾"
+"+3% Chance to Block Spell Damage per Power Charge","每顆暴擊球 +3% 法術傷害格擋率"
+"+8% to Critical Strike Multiplier per Power Charge","每個暴擊球 +8% 暴擊加成"
+"+0.3% to Critical Strike Chance per Power Charge","每顆暴擊球 +0.3% 暴擊率"
+"30% increased Mana Regeneration Rate per Raised Spectre","每隻喚醒幽魂增加 30% 魔力恢復率"
+"+1% Chance to Block Attack Damage per Summoned Skeleton","每隻召喚骷髏 +1% 攻擊傷害格擋率"
+"Regenerate 0.6% of Life per second for each Raised Zombie","每隻殭屍復甦每秒回復 0.6% 生命"
+"Deal no Physical Damage",不會造成物理傷害
+"Herald of Thunder has 100% increased Buff Effect","閃電之捷增加 100% 增益效果"
+"Herald of Thunder has 100% increased Mana Reservation Efficiency","閃電之捷增加 100% 魔力保留效用"
+"Warcry Skills' Cooldown Time is 4 seconds","戰吼技能冷卻時間為 4 秒"
+"Enemies Taunted by your Warcries Explode on death, dealing 8% of their maximum Life as Chaos Damage","被你的戰吼嘲諷的敵人死亡時爆炸，造成他們最大生命 8% 的混沌傷害"
+"Damage Penetrates 20% Fire Resistance","傷害穿透 20% 火焰抗性"
+"Trigger Level 20 Molten Burst on Melee Hit",近戰擊中時觸發等級20的熔岩爆破
+"+100 to maximum Life","+100 最大生命"
+"Cannot be Knocked Back",不能被擊退
+"+2 to Level of all Vaal Skill Gems","+2 全部瓦爾技能寶石的等級"
+"You gain Onslaught for 20 seconds on using a Vaal Skill","使用瓦爾技能時獲得猛攻持續 20 秒"
+"+25% chance to Suppress Spell Damage","+25% 壓抑法術傷害率"
+"Recover 200 Life when you Suppress Spell Damage","當你壓抑法術傷害時，恢復 200 生命"
+"You have Impenetrable Shrine Buff while affected by no Flasks",你在不受藥劑影響時擁有無畏神殿增益
+"40% increased Duration of Ailments on Enemies","增加 40% 敵人身上異常狀態時間"
+"Cover Enemies in Ash for 5 seconds when you Ignite them","當你點燃敵人時，餘燼纏身他們 5 秒"
+"Cover Enemies in Frost for 5 seconds when you Freeze them","當你冰凍敵人時，霜寒纏身他們 5 秒"
+"15% increased Strength","增加 15% 力量"
+"Nearby Enemies Convert 25% of their Physical Damage to Fire","附近敵人轉化 25% 它們的物理傷害至火焰"
+"Trigger Level 20 Raise Spiders on Kill","擊殺時觸發等級 20 的異蛛復甦"
+"Each Summoned Phantasm grants you Phantasmal Might",每個召喚的幻影給予你幻影之力
+"+40 to Strength and Dexterity","+40 力量和敏捷"
+"Grants Summon Greater Harbinger of Directions Skill",獲得召喚高階方位神諭技能
+"Gain 1 Flask Charges when you deal a Critical Strike","暴擊時獲得 1 點藥劑充能"
+"Gain 20% of Physical Damage as Extra Fire Damage if you've\nused a Ruby Flask Recently","如果近期使用了紅玉藥劑，\n獲得20%物理傷害的額外火焰傷害"
+"Gain 20% of Physical Damage as Extra Cold Damage if you've\nused a Sapphire Flask Recently","如果近期使用了藍玉藥劑，\n獲得20%物理傷害的額外冰冷傷害"
+"Gain 20% of Physical Damage as Extra Lightning Damage if you've\nused a Topaz Flask Recently","如果近期使用了黃玉藥劑，\n獲得20%物理傷害的額外閃電傷害"
+"25% of Cold Damage taken as Fire Damage","25% 的冰冷傷害承受為火焰傷害"
+"25% of Physical Damage taken as Fire Damage","25% 的物理傷害承受為火焰傷害"
+"25% of Lightning Damage taken as Fire Damage","25% 的閃電傷害承受為火焰傷害"
+"5% increased Light Radius","增加 5% 照亮範圍"
+"Your Mercenary and their Minions have 15% increased maximum Life","你的傭兵和其召喚物增加 15% 最大生命"
+"Your Mercenary and their Minions deal 15% increased Damage","你的傭兵和其召喚物增加 15% 造成的傷害"
+"You can hire a Mercenary permanently",你可以永久僱傭一名傭兵
+"50% less Cost of Link Skills","連結技能擁有 50% 更少消耗"
+"Link Skills have infinite Attachment Duration",連結技能擁有無限的附著持續時間
+"If your Linked Mercenary dies, the Link owner does not also die",如果你連結的傭兵死亡，連結的所有者將不會同步死亡
+"Increases and Reductions to Light Radius also apply to Effect\nof your Link Skill Buffs on your Mercenary","增加和減少照亮範圍同時套用至你作用於\n你傭兵上的連結技能增益效果"
+"If your Mercenary's Life is lower than your own, 40% of Damage they take is Recouped as Life","若你的傭兵血量低於你，其補償 40% 承受的傷害為生命"
+"If your Mercenary's Life is higher than your own, 20% of Damage from Hits is\ntaken from your Mercenary's Life before you","若你傭兵的生命值高於你，承受 20% 的擊中傷害\n會先從你傭兵的生命扣除"
+"Your Mercenary Taunts on Hit",你的傭兵擊中時嘲諷
+"Your Mercenary has 50% increased effect of Non-Curse Auras from Skills","你的傭兵增加 50% 來自技能的非詛咒光環效果"
+"Your Mercenary can equip Unique Weapons, Shields and Quivers",你的傭兵可以裝備傳奇武器、盾牌、和箭袋
+"Your Mercenary and their Minions deal 8% more Damage for\neach Unique item they have equipped","你的傭兵每裝備一件傳奇物品\n傭兵和其召喚物即造成 8% 更多傷害"
+"Your Mercenary can equip Unique Gloves",你的傭兵可以裝備傳奇手套
+"Your Mercenary can equip Unique Helmets",你的傭兵可以裝備傳奇頭盔
+"Your Mercenary can equip Unique Boots",你的傭兵可以裝備傳奇鞋子
+"Your Mercenary can equip Unique Rings",你的傭兵可以裝備傳奇戒指
+"Your Mercenary can equip Unique Amulets",你的傭兵可以裝備傳奇項鍊
+"Your Mercenary can equip Unique Belts",你的傭兵可以裝備傳奇腰帶
+"Skills which Throw Traps have +1 Cooldown Uses","投擲陷阱的技能 +1 冷卻使用次數"
+"16% increased Mana Cost Efficiency","增加 16% 魔力消耗效用"
+"60% increased Critical Strike Chance while wielding a Staff",持長杖時增加60%暴擊率
+"15% increased Cost Efficiency of Attacks","增加 15% 攻擊的消耗效用"
+"25% increased Cost Efficiency of Attacks","增加 25% 攻擊的消耗效用"
+"Attacks fire 1 additional Projectiles","攻擊發射 1 個額外投射物"
+"20% increased Mana Cost Efficiency of Link Skills","增加 20% 連結技能的魔力消耗效用"
+"Warcries Exert 1 additional Attacks","戰吼竭盡 1 次額外攻擊"
+"10% increased Mana Cost Efficiency of Mark Skills","增加 10% 印記技能的魔力消耗效用"
+"20% increased Mana Cost Efficiency of Mark Skills","增加 20% 印記技能的魔力消耗效用"
+"10% increased Mana Cost Efficiency of Spells","增加 10% 法術的魔力消耗效用"
+"3% increased Intelligence","增加 3% 智慧"
+"20% increased Mana Cost Efficiency of Spells","增加 20% 法術的魔力消耗效用"
+"15% increased Cost Efficiency","增加 15% 消耗效用"
+"6% increased Reservation Efficiency of Skills","增加 6% 技能的保留效用"
+"20% increased Cost Efficiency","增加 20% 消耗效用"
+"You can inflict an additional Ignite on each Enemy\nBase Ignite Duration is 1 second\n25% less Damage with Ignite\nCannot deal non-Fire Damage","你可以為每一敵人額外施加一個點燃\n基礎點燃持續時間為1秒\n點燃造成 25% 更少傷害\n無法造成非火焰傷害"
+"Enemies Chilled by your Hits have Cold Damage taken increased by Chill Effect\nEnemies in your Chilling Areas have Cold Damage taken increased by Chill Effect\nCannot deal non-Cold Damage","受到你擊中而冰緩的敵人會根據冰緩效果增加承受傷害\n位於你冰緩區域內的敵人會根據冰緩效果增加承受傷害\n無法造成非冰冷傷害"
+"25% more Maximum Lightning Damage\n50% less Minimum Lightning Damage\nCannot deal non-Lightning Damage","25% 更多最大閃電傷害\n50% 更少最小閃電傷害\n無法造成非閃電傷害"
+"Vaal Skills can store +1 Uses",瓦爾技能可以保存+1次使用次數
+"15% increased Defences",增加15%全域防禦
+"You gain Added Lightning Damage instead of Added Damage of other types if Intelligence exceeds both other Attributes",若你的智慧為你最高的能力值，你的其他附加傷害種類會改為附加閃電傷害
+"Drop Brine Ground while moving, lasting 4 seconds","移動時留下鹹水地面，持續 4 秒"
+"Trigger Level 20 Surging Torrent when you cast an Elemental Spell","當你施放元素法術時，觸發等級 20 的奔湧激流"
+"Inflict Barnacles on nearby Enemies every second",每秒對周遭的敵人施加藤壺
+"Triggers Drowning Domain when Allocated",配置時觸發溺水領域
+"+10% to Cold Resistance","+10% 冰冷抗性"
+"All other Summoned Totems die when you Summon a Totem",當你召喚圖騰時使所有已召喚的圖騰死亡
+"Totems have 5% more Life per maximum number of Summoned Totems","每一最大召喚圖騰數量，會使圖騰擁有 5% 更多生命"
+"Skills used by Totems deal 10% more Damage per maximum number of Summoned Totems","每一最大召喚圖騰數量，會使透過圖騰使用的技能造成 10% 更多傷害"
+"Skills used by Totems have 5% more Area of Effect per maximum number of Summoned Totems","每一最大召喚圖騰數量，會使透過圖騰使用的技能擁有 5% 更多範圍效果"
+"While you have at least 3 Searching Eye Jewels socketed:","若你至少鑲嵌了 3 個勘查之眼珠寶："
+"Targets affected by Maim you inflict cannot deal Critical Strikes",被你施加的癱瘓所影響的目標無法造成暴擊
+"Maim you inflict causes Hits against the target to have 20% more Critical Strike Chance","你施加的癱瘓會使目標承受的擊中擁有 20% 更多暴擊率"
+"While you have at least 3 Hypnotic Eye Jewels socketed:","若你至少鑲嵌了 3 個催眠之眼珠寶："
+"Arcane Surge also grants 20% increased Mana Cost Efficiency to you","秘能波動同時使你增加 20% 魔力消耗效用"
+"Arcane Surge also grants 20% of Damage taken Recouped as Mana to you","秘能波動同時使你承受的 20% 傷害補償為你的魔力"
+"While you have at least 3 Ghastly Eye Jewels socketed:","若你至少鑲嵌了 3 個極懼之眼珠寶："
+"Unholy Might you grant also applies 20% Increased Effect of Withered","你獲得的不潔之力同時會增加 20% 凋零效果"
+"Unholy Might you grant also causes target's Damage to Penetrate 10% Chaos Resistance","你獲得的不潔之力同時會使目標的傷害穿透 10% 混沌抗性"

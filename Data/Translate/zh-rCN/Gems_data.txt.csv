@@ -79,7 +79,7 @@ Icestorm,冰风暴
 "Icicle Burst",爆环冰刺
 "Illusory Warp",幻象传送
 "Lightning Aegis",闪电护盾
-"Lightning Bolt",雷光霹雳
+"Lightning Bolt",雷霆万钧
 "Manifest Dancing Dervish",召唤幻化之刃德尔维希
 "Molten Burst"," 熔岩爆破"
 "Raise Spiders",召唤毒蛛
@@ -147,7 +147,7 @@ Contaminate,玷污
 "Fire Elemental Cone",火元素炎锥
 "Fire Nova Mine",火焰新星地雷
 "Fire Projectile Retaliation",火焰反击投射
-"Flame Breath",龙炎吐息
+"Flame Breath",火焰之息
 "Flask Charge Nova",药剂充能冰霜
 "Flicker Thrust",闪光突刺
 Focus,专注
@@ -170,7 +170,7 @@ Kill,击败
 "Piety Beam",派蒂光束
 "Piety Reverse Cleave",派蒂反向劈砍
 "Primal Aegis",原能护盾
-"Rain Of Blades",刀刃之雨
+"Rain Of Blades",刀雨
 "Range Finder",距离探测
 "Rending Steel (NOT CURRENTLY USED)",裂肉铁刃（非当前使用）
 "Slow Aura",缓速光环
@@ -186,8 +186,8 @@ Throw,投掷
 "Touch Of God",天谴之拳
 Unhinge,精神失常
 Unnamed2,未命名
-"Vaal Fire Trap",瓦尔.火焰陷阱
-"Vaal Vitality",瓦尔.活力
+"Vaal Fire Trap",瓦尔：火焰陷阱
+"Vaal Vitality",瓦尔：活力
 "Vinktar Lightning Bond",闪电链结
 "Volatile Anomaly",异动奇点
 "Whirling Leap",回旋跃击
@@ -196,7 +196,7 @@ Unnamed2,未命名
 "Queen's Demand",女王敕令
 "Storm of Judgement",审判风暴
 "Summon Arbalists",召唤劲弩
-Twister,旋龙
+Twister,混沌之风
 Absolution,赦罪
 "Alchemist's Mark",炼金师印记
 Ambush,伏击
@@ -252,7 +252,7 @@ Cleave,劈砍
 "Cold Snap",霜暴
 Conductivity,导电
 "Consecrated Path",奉献之路
-Contagion,瘟疫
+Contagion,顽疾
 "Conversion Trap",迷魅陷阱
 Convocation,号召
 "Corrupting Fever",腐灼热瘟
@@ -265,11 +265,11 @@ Cyclone,旋风斩
 Dash,冲刺
 "Death Aura",死神光环
 "Decoy Totem",诱饵图腾
-"Defiance Banner",抗争战旗
+"Defiance Banner",抗争之旗
 Desecrate,亵渎
 Despair,绝望
 "Destructive Link",毁灭羁绊
-Determination,坚定
+Determination,瓦尔：坚定
 "Detonate Dead",爆灵术
 "Detonate Mines",引爆地雷
 "Devouring Totem",吞噬图腾
@@ -279,7 +279,7 @@ Discipline,纪律
 "Divine Ire",圣怨
 "Dominating Blow",霸气之击
 "Double Strike",双重打击
-"Dread Banner",恐怖战旗
+"Dread Banner",恐怖之旗
 "Dual Strike",双持打击
 Earthquake,震地
 Earthshatter,尖刺战吼
@@ -354,7 +354,7 @@ Icefire,霜火
 "Icicle Mine",冰锥地雷
 "Immortal Call",不朽怒嚎
 Incinerate,烧毁
-"Infernal Blow",炽焰之击
+"Infernal Blow",炼狱之击
 "Infernal Cry",炽焰战吼
 "Infernal Sweep",炼狱裂击
 "Intimidating Cry",威吓战吼
@@ -383,7 +383,7 @@ Perforate,凿击
 "Pestilent Strike",致疫打击
 "Petrified Blood",赤血凝结
 "Phase Run",暗影迷踪
-"Plague Bearer",瘟疫使者
+"Plague Bearer",灾难使徒
 "Poacher's Mark",盗猎者印记
 "Poisonous Concoction",毒爆灵药
 Polymorph,变形
@@ -392,7 +392,7 @@ Portal,时空之门
 Precision,精准
 Pride,尊严
 "Protective Link",防御羁绊
-Puncture,洞穿
+Puncture,放血
 Punishment,惩戒
 "Purifying Flame",净化烈焰
 "Purity of Elements",元素净化
@@ -477,52 +477,52 @@ Sweep,横扫
 Tornado,龙卷旋风
 "Tornado Shot",龙卷射击
 "Toxic Rain",毒雨
-Unearth,开掘
-"Vaal Ancestral Warchief",瓦尔.先祖战士长
-"Vaal Arc",瓦尔.电弧
+Unearth,亵渎之矛
+"Vaal Ancestral Warchief",瓦尔：先祖战士长
+"Vaal Arc",瓦尔：电弧
 "Vaal Blade Flurry",瓦尔：刀刃乱舞
-"Vaal Blade Vortex",瓦尔.飞刃风暴
-"Vaal Blight",瓦尔.枯萎
-"Vaal Breach",瓦尔.裂隙
-"Vaal Burning Arrow",瓦尔.燃烧箭矢
+"Vaal Blade Vortex",瓦尔：飞刃风暴
+"Vaal Blight",瓦尔：枯萎
+"Vaal Breach",瓦尔：裂隙
+"Vaal Burning Arrow",瓦尔：燃烧箭矢
 "Vaal Caustic Arrow",瓦尔：腐蚀箭矢
-"Vaal Clarity",瓦尔.清晰
+"Vaal Clarity",瓦尔：清晰
 "Vaal Cleave",瓦尔：劈砍
-"Vaal Cold Snap",瓦尔.霜暴
-"Vaal Cyclone",瓦尔.旋风斩
-"Vaal Detonate Dead",瓦尔.爆灵术
-"Vaal Discipline",瓦尔.纪律
-"Vaal Double Strike",瓦尔.双重打击
-"Vaal Earthquake",瓦尔.震地
-"Vaal Fireball",瓦尔.火球
-"Vaal Flameblast",瓦尔.烈焰爆破
-"Vaal Flesh Offering",瓦尔.血肉奉献
+"Vaal Cold Snap",瓦尔：霜暴
+"Vaal Cyclone",瓦尔：旋风斩
+"Vaal Detonate Dead",瓦尔：爆灵术
+"Vaal Discipline",瓦尔：纪律
+"Vaal Double Strike",瓦尔：双重打击
+"Vaal Earthquake",瓦尔：震地
+"Vaal Fireball",瓦尔：火球
+"Vaal Flameblast",瓦尔：烈焰爆破
+"Vaal Flesh Offering",瓦尔：血肉奉献
 "Vaal Flicker Strike",瓦尔：闪现打击
-"Vaal Glacial Hammer",瓦尔.冰霜之锤
-"Vaal Grace",瓦尔.优雅
-"Vaal Ground Slam",瓦尔.裂地之击
-"Vaal Haste",瓦尔.迅捷
-"Vaal Heavy Strike",瓦尔.重击
-"Vaal Ice Nova",瓦尔.冰霜新星
-"Vaal Immortal Call",瓦尔.不朽怒嚎
-"Vaal Impurity of Fire",瓦尔.不净之火
-"Vaal Impurity of Ice",瓦尔.不净之冰
-"Vaal Impurity of Lightning",瓦尔.不净之雷
-"Vaal Lightning Strike",瓦尔.闪电打击
-"Vaal Lightning Trap",瓦尔.闪电陷阱
-"Vaal Lightning Warp",瓦尔.闪电传送
-"Vaal Molten Shell",瓦尔.熔岩护盾
+"Vaal Glacial Hammer",瓦尔：冰霜之锤
+"Vaal Grace",瓦尔：优雅
+"Vaal Ground Slam",瓦尔：裂地之击
+"Vaal Haste",瓦尔：迅捷
+"Vaal Heavy Strike",瓦尔：重击
+"Vaal Ice Nova",瓦尔：冰霜新星
+"Vaal Immortal Call",瓦尔：不朽怒嚎
+"Vaal Impurity of Fire",瓦尔：不净之火
+"Vaal Impurity of Ice",瓦尔：不净之冰
+"Vaal Impurity of Lightning",瓦尔：不净之雷
+"Vaal Lightning Strike",瓦尔：闪电打击
+"Vaal Lightning Trap",瓦尔：闪电陷阱
+"Vaal Lightning Warp",瓦尔：闪电传送
+"Vaal Molten Shell",瓦尔：熔岩护盾
 "Vaal Molten Strike",瓦尔：熔岩之击
-"Vaal Power Siphon",瓦尔.力量抽取
-"Vaal Rain of Arrows",瓦尔.箭雨
-"Vaal Reave",瓦尔.冲击波
-"Vaal Righteous Fire",瓦尔.正义之火
+"Vaal Power Siphon",瓦尔：力量抽取
+"Vaal Rain of Arrows",瓦尔：箭雨
+"Vaal Reave",瓦尔：冲击波
+"Vaal Righteous Fire",瓦尔：正义之火
 "Vaal Smite",瓦尔：惩击
-"Vaal Spark",瓦尔.电球
-"Vaal Spectral Throw",瓦尔.灵体投掷
-"Vaal Storm Call",瓦尔.风暴呼唤
-"Vaal Summon Skeletons",瓦尔.召唤魔侍
-"Vaal Sweep",瓦尔.横扫
+"Vaal Spark",瓦尔：电球
+"Vaal Spectral Throw",瓦尔：灵体投掷
+"Vaal Storm Call",瓦尔：风暴呼唤
+"Vaal Summon Skeletons",瓦尔：召唤魔侍
+"Vaal Sweep",瓦尔：横扫
 "Vaal Venom Gyre",瓦尔：剧毒旋风
 "Vaal Volcanic Fissure",瓦尔：火山裂缝
 "Vampiric Link",血灵羁绊
@@ -1043,7 +1043,7 @@ Requiem,镇魂曲
 Sacrifice,替代牺牲
 "Scavenged Plating",装甲回收
 "Scorching Cleave",灼热劈砍
-"Set Shark Bait",设置鲨鱼饵
+"Set Shark Bait",鲨鱼诱饵
 "Shard Scavenger",碎片回收
 "Shattering Concoction",碎冰灵药
 "Shattering Palm",冰裂掌
@@ -1163,7 +1163,7 @@ Eviscerate,剔骨
 "Spectral Helix of Trarthus",特拉特斯之灵幻旋斩
 "Spectral Shield Throw of Trarthus",特拉特斯之灵盾投掷
 "Spectral Throw of Trarthus",特拉特斯之灵体投掷
-Starfall,星陨
+Starfall,星辰坠落
 "Storm Call of Trarthus",特拉特斯之风暴呼唤
 "Summon Shaper Memory",召唤塑界者的记忆
 "Summon Skeletons of Archers",射手之召唤魔侍
@@ -1386,3 +1386,27 @@ Slam,猛击
 "Wild Protector",野性守护
 "Wildwood's Gifts",荒林之赐
 "Winged Entropy",混沌飞翼
+"Abyssal Maw",深渊巨口
+"Aspect of Arakaali",阿拉卡力之势
+"Aspect of Lunaris",月影之势
+"Aspect of Solaris",日耀之势
+"Aspect of the Brine King",海王之势
+"Chain Hook of Angling",垂钓之钩链攻击
+"Dark Bargain",黑暗交易
+"Dark Bargain of Trarthus",特拉特斯之黑暗交易
+"Divine Blast of Radiance",光辉之神圣冲击
+"Explosive Toad",邪爆蟾蜍
+"Falling Crystal",天坠魂晶
+Fleshrend,血肉撕裂
+"Ghostly Artillery",鬼火大炮
+"Heaven's Scourge",天谴
+"Holy Hammers of Spirals",螺旋之神圣之锤
+"Holy Sweep of Hammerfalls",落锤之神圣横扫
+"Mana-Infused Staff",注魔长杖
+"Pact of Beidat",贝达特契约
+"Pact of Ghorr",咕尔契约
+"Pact of K'Tash",科塔席契约
+"Pact of Lycia",莉西娅契约
+"Reap of Butchery",屠戮之赤炼收割
+"Savage Barnacle",野性藤壶
+"Surging Torrent",激流奔涌
