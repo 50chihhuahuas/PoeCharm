@@ -1,4 +1,6 @@
 "Character Import",角色导入
+
+"Character import status: Not authenticated","角色导入状态: 未认证"
 "Character import status: Idle","角色导入状态: 空"
 "Character import status: Sign-in is required.","角色导入状态: 需要登陆。"
 "Character import status: Account profile is private.","角色导入状态: 帐号资料未公开"
@@ -34,6 +36,8 @@ Ignore weapon swap:,忽略武器切换
 Ignore items and skills in weapon swap.,忽略另一套武器以及上面的技能
 "Tip: After you finish importing a character, make sure you update the bandit choice,",提示：在你完成角色导入后，确保你更新了盗贼选择，
 as it cannot be imported.,因为其无法被导入。
+Import From Your Account,从账号导入
+Import By Account Name,以用户名导入
 Build Sharing,分享构筑
 Generate a code to share this build with other Path of Building users:,生成POB代码以分享给其他POE玩家:
 Export Support,导出支援

@@ -78,6 +78,7 @@ Crits:,暴击:
 Inc. Crit Chance:,暴击几率提高:
 Crit Chance:,暴击率:
 Crit Multiplier:,暴击伤害加成:
+Crit Bifurcates:,暴击分岔:
 Crit Effect Mod:,有效暴伤修正:
 MH Inc. Crit Chance:,暴击率提高(主手):
 MH Crit Chance:,暴击率(主手):
@@ -558,9 +559,13 @@ Mind over Matter %:,心灵升华抵御比例:
 Guard:,防卫技能:
 Aegis:,圣盾技能:
 Frost Shield:,冰霜护盾技能:
+Minion Ally:,召唤物友军:
 Spectre Ally:,灵体友军:
 Totem Ally:,图腾友军:
 Vaal Rejuv. Totem:,瓦尔回春图腾:
+Sentinel of Radiance:,光辉哨兵:
+Void Spawn Ally:,虚空造物友军:
+Stone Golem Ally:,巨石魔像友军:
 Soul Link:,灵魂羁绊:
 Hits before death:,敌人需出手次数:
 "Effective ""Health"" Pool:",有效生命值:
@@ -590,8 +595,5 @@ Net Mana Recovery:,魔力净回复:
 Net ES Recovery:,能量护盾净回复:
 Net Energy Shield Recovery:,能量护盾净回复:
 Enemy Degens:,敌人扣血:
-Spirit:,精魂:
-Deflection:,偏转:
-Charms:,护符:
 
 

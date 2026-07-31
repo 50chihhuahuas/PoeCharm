@@ -26,7 +26,7 @@ Sort gems by DPS:,技能宝石排序(DPS):
 Default gem level:,默认技能宝石等级:
 Default gem quality:,默认技能宝石品质:
 Show support gems:,显示辅助宝石:
-Show quality variants:,显示品质变种:
+Show legacy gems:,显示旧版宝石:
 Socketed in:,插槽位置:
 Select the item in which this skill is socketed.,选择该技能插槽所在的物品。
 This will allow the skill to benefit from modifiers on the item that affect socketed gems.,这将会使技能宝石受到物品上影响插槽的词缀的加成。
