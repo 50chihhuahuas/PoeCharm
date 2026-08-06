@@ -48,6 +48,20 @@ Infernal Cry:,炼狱战吼:
 Ancestral Cry:,先祖战吼:
 Exerted Attacks:,增助攻击:
 Fist of War:,战争铁拳:
+
+
+Empowered Spells:,受增幅技能:
+# of Empowered,增幅次数
+Beam Chains,光束连锁
+Cascades,爆发
+Pact of Beidat:,贝达特契约:
+Pact of Ghorr:,咕尔契约:
+Pact of K'Tash:,科塔席契约:
+Pact of Lycia:,莉西娅契约:
+
+
+
+
 Skill Damage over Time:,技能持续伤害:
 Total Multiplier:,总加成:
 Damage over Time:,持续伤害:
@@ -132,6 +146,7 @@ Tertiary Duration:,三阶段持续时间:
 Aura Duration:,光环持续时间:
 Reserve Duration:,保留持续时间:
 Soul Gain Prevent.:,阻灵术:
+Soul Refund Chance:,灵魂重获几率:
 Uptime:,正常启用时长:
 Secondary Uptime:,二阶段启用时长:
 Tertiary Uptime:,三阶段启用时长:

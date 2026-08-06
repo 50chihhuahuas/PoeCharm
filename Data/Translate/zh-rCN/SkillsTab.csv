@@ -33,6 +33,11 @@ This will allow the skill to benefit from modifiers on the item that affect sock
 No item is equipped in this slot.,这个装备槽位没有装备任何物品。
 Enabled:,启用:
 Include in Full DPS:,计入最终总和DPS:
+This item cannot have sockets,此物品无法拥有插槽
+Item sockets:{0},物品插槽:{0}
+Optimise Sockets,优化插槽
+Rebuild the item's sockets to match the groups assigned to it.,重建物品的插槽，使其与分配给它的组别相匹配。
+
 Imbued Support:,注入辅助:
 Remove this imbued support.,移除此注入辅助。
 Count:,倍率:
@@ -45,4 +50,9 @@ Variant:,变种:
 "Note: `count` integer value scales the DPS of associated skill by a scalar.","注意:'倍率'整数值将按比例倍增其相关技能的DPS。"
 "To be used with totems, minions, shot-gunning of projectiles (e.g., VD, magma-orbs),","用于计算图腾、召唤物、霰弹效应投射物(比如灵体火球、熔岩奔涌)、"
 "multi-hit projectiles (e.g. ball-lightning), traps, mines.","复数击中投射物(比如天雷之珠)、陷阱、地雷的DPS。"
+
+
+Note: this group is disabled because it is socketed in the inactive weapon set.,注意：该组因被分配到非启用武器组中而处于禁用状态。
+
+
 Manage Skill Sets,管理技能集
