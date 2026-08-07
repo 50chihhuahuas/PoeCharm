@@ -93,7 +93,11 @@ Exerted/Boosted calc mode:,增助/增强计算模式:
 "Max Hit","最大击中"
 "Controls how exerted attacks from Warcries are calculated:","控制如何计算战吼后的增助攻击:"
 "Averages out Warcry usage with cast time, attack speed and warcry cooldown.","用施法时间，攻击速度和战吼冷却时间计算平均战吼使用率。"
-"Max Hit: Shows maximum hit for lining up all warcries.","最大击中:显示排列所有战吼的最大击中伤害。"
+"Max Hit: Shows maximum hit for lining up all warcries.","最大击中：显示排列所有战吼的最大击中伤害。"
+Pact calc mode:,契约计算模式:
+Controls how Empowered spells from Pacts are calculated:,控制契约中法术增幅的计算方式：
+Average: Averages the effect based on Pact uptime.,平均：根据契约上线时间计算效果的平均值。
+Max Hit: Applies the full effect to one Empowered spell.,最大击中：将全部效果应用于一个受增幅法术。
 "Disable Emperor's Vigilance Bypass","禁用【皇帝的警戒】的规避效果"
 Don't disable items,不禁用物品
 "Ignore the effects of things which disable items, like Bringer of Rain","忽略那些使物品失效的效果，比如祭礼之雨"
@@ -545,6 +549,8 @@ Summoned Golem in past 10 Seconds?,过去10秒内召唤了魔像?
 # of Summoned Minions (if not maximum):,召唤物数(如果不是最大值):
 Use this to override the count if you do not have all your minions summoned,如果尚未召唤完所有召唤物，请使用此选项来覆盖计数
 # of non-vaal skill Summoned Minions:,非瓦尔技能召唤物数:
+# of Permanent Minions (if not maximum):,永久召唤物数(如果不是最大值):
+Use this to override the count if you do not have all your permanent minions summoned,如果尚未召唤完所有永久召唤物，请使用此选项来覆盖计数
 Are you on Consecrated Ground?,你在【奉献地面】上?
 "In addition to allowing any 'while on Consecrated Ground' modifiers to apply,","启用时 '你在【奉献地面】上' 之类的修正生效,"
 Consecrated Ground grants 5% Life Regeneration to players and allies.,^xFFFFFF【奉献地面】使在上面的玩家和友军获得每秒6%^xE05030生命^7回复。

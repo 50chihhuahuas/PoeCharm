@@ -37,6 +37,7 @@ Jewel Slot:,珠宝插槽:
 Mirrored Items:,镜像物品:
 Scourge Mods:,天灾腐化修正:
 Talisman Mods:,魔符修正:
+Whether talisman enchant mods should be included. Disabled by default due to the maximum filter limit.,是否应包含魔符附魔模组。由于最大过滤限制，默认情况下已禁用。
 Controls the inclusion of eldritch mod weights in the weighted sum.,控制是否在加权求和中包含异能模组权重。
 Copy Current: implicits in weights are skipped and augments are replaced with the,复制当前：当可能时，跳过权重中的基底项，
 current implicits when possible. Usually the best opinion as this ensures the,并在可能的情况下用当前基底词缀替换增幅词缀。

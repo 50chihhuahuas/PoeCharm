@@ -14,14 +14,15 @@ Create custom...,创建自定义物品...
 "Double-click an item from one of the lists,","双击列表中的一个物品，"
 or copy and paste an item from in game,或从游戏中复制粘贴出一个物品
 (hover over the item and Ctrl+C) to view or edit,(悬停在项目上并按Ctrl+C)，以查看或编辑
-the item and add it to your build. You can ,物品并将其添加到你的构筑中。
-also clone an item within Path of Building by ,你也可以使用Ctrl+C和Ctrl+V，
+the item and add it to your build. You can,物品并将其添加到你的构筑中。
+also clone an item within Path of Building by,你也可以使用Ctrl+C和Ctrl+V，
 copying and pasting it with Ctrl+C and Ctrl+V.,在Path of Building中复制并粘贴一个物品。
-"You can Control + Click an item to equip it, or ",你可以Ctrl+点击一个物品来装备它，
-drag it onto the slot.  This will also add it to ,或者把它拖到插槽上。
+"You can Control + Click an item to equip it, or",你可以Ctrl+点击一个物品来装备它，
+drag it onto the slot.  This will also add it to,或者把它拖到插槽上。
 your build if it's from the unique/template list.,如果它来自传奇/模板列表，
-"If there's 2 slots an item can go in, ",这也会将它添加到你的构筑中。
+"If there's 2 slots an item can go in,",这也会将它添加到你的构筑中。
 holding Shift will put it in the second.,如果一个物品有2个插槽，按住Shift键会把它放在第二个插槽。
+Buy similar,购买类似物
 Add to build,添加到构筑
 Edit...,编辑...
 Apply Enchantment...,添加迷宫附魔...
@@ -32,6 +33,7 @@ Anoint 3...,涂油3...
 Anoint 4...,涂油4...
 Corrupt...,腐化...
 Add Implicit...,添加基底...
+Selecting an influence here will also allow the modifier dropdowns to contain influenced mods.,选择此处的影响后，下拉修正菜单也将包含受影响的修正。
 Catalyst,催化剂
 Abrasive (Attack),研磨催化剂(攻击)
 Accelerating (Speed),加速催化剂(速度)
@@ -45,6 +47,7 @@ Turbulent (Elemental),猛烈催化剂(元素伤害)
 Unstable (Critical),不稳定的催化剂(暴击)
 Quality,品质
 Added Passives:,增加天赋:
+Modifier sorting:,修正排序:
 Affix,词缀
 Level,等级
 Tags,标签
