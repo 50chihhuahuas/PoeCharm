@@ -1,27 +1,27 @@
 add,翻譯
--1 Physical Damage taken from Hits per Level,-1 входящего физического урона при получении удара
+-1 Physical Damage taken from Hits per Level,-1 входящего физического урона за уровень при получении удара
 -1 to maximum number of Summoned Totems.,-1 к максимальному количеству установленных тотемов
 -1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy,-1 к максимальному количеству установленных тотемов\nВы можете прикрепить к врагу дополнительное клеймо
 -10 Physical Damage taken from Hits,-10 входящего физического урона при получении удара
 -25% to maximum Chance to Block Attack Damage\n-25% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage,-10% к максимальному шансу блока урона от атак\n-10% к максимальному шансу блока урона от чар\n+2% к кашнсу блока урона от чар за каждый 1% блока урона от атак выше максимума
 -X% maximum Resistances:,-X% к максимальным сопротивлениям
-'Armoured','裝甲的'
-'Hexproof','無咒的'
-'Hexwarded','魔抗的'
-'Impervious','避毒的'
-'of Balance','平衡之'
-'of Congealment','凝血之'
-'of Drought','幹枯之'
-'of Exposure','曝曬之'
-'of Impotence','短程之'
-'of Insulation','隔絕之'
-'of Miring','遲鈍之'
-'of Rust','生鏽之'
-'of Skirmishing','衝突之'
-'of Smothering','窒息之'
-'of Stasis','瘀血之'
-'of Toughness','堅韌之'
-'Resistant','抗性的'
+'Armoured','Непробиваемый'
+'Hexproof','Заговорённый'
+'Hexwarded','Сомнений'
+'Impervious','Непроницаемый'
+'of Balance','Равновесия'
+'of Congealment','Коагуляции'
+'of Drought','Засухи'
+'of Exposure','Воздействия'
+'of Impotence','Бессилия'
+'of Insulation','Изоляции'
+'of Miring','Очернения'
+'of Rust','Ржавчины'
+'of Skirmishing','Стычек'
+'of Smothering','Удушения'
+'of Stasis','Стазиса'
+'of Toughness','Жёсткости'
+'Resistant','Устойчивый'
 (A Hit that removes at least 15% of Maximum Life is a Savage Hit),"( 一次攻擊使目標失去 15% 最大生命以上的傷害時, 該攻擊會被視為殘暴打擊 )"
 "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)",( 腎上腺素提供增加 100% 傷害，增加 25% 攻擊、施放和移動速度、和 10% 額外物理傷害減免 )
 "(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)",（影響近戰打擊，包括普通攻擊。無法用於效果區域）
