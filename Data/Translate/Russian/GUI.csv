@@ -22,53 +22,53 @@ add,翻譯
 'of Stasis','Стазиса'
 'of Toughness','Жёсткости'
 'Resistant','Устойчивый'
-(A Hit that removes at least 15% of Maximum Life is a Savage Hit),"( 一次攻擊使目標失去 15% 最大生命以上的傷害時, 該攻擊會被視為殘暴打擊 )"
-"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)",( 腎上腺素提供增加 100% 傷害，增加 25% 攻擊、施放和移動速度、和 10% 額外物理傷害減免 )
-"(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)",（影響近戰打擊，包括普通攻擊。無法用於效果區域）
-"(Ailments are Bleeding, Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, Sapped, and Poisoned)",(異常狀態包括流血、點燃、焦灼、冰緩、冰凍、易碎、感電、殘喘和中毒)
-"(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)",(傷害類異常狀態包括流血、點燃和中毒)
-"(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(非傷害類異常狀態包括焦灼、冰緩、冰凍、易碎、感電和殘喘)
-"(Alchemist's Genius increases Flask Charges gained and effect of Flasks by 20%, for 4 seconds)",（鍊金奇才使藥劑使用次數和藥劑效果增加 20%，持續 4 秒）
-"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)",( 站在奉獻地面上的友方每秒回復他們最大生命的百分比，且減少 50% 他們身上的詛咒效果 )
-(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance),( 站在奉獻地面上的友方每秒回復一定百分比的最大生命 )
-(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second),( 站在奉獻地面上的友方每秒回復他們一定百分比的最大生命 )
-"(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)",( 秘能波動提供 10% 更多法術傷害和增加 30% 魔力回復，持續 4 秒 )
-"(Arcane Surge grants 10% more Spell Damage, 10% increased Cast Speed, and 0.5% of maximum Mana Regenerated per second, for 4 seconds)",( 秘能波動提供 10% 更多法術傷害、增加 10% 施放速度、和每秒回復 0.5% 最大魔力，持續 4 秒 )
-"(Armour is treated as double value, only for calculating damage mitigation)",（護甲被視為雙倍數值，只用於緩阻傷害）
-(Attacks that Trigger when you are Hit are Counterattacks),(當你被擊中時觸發的攻擊被稱為反擊)
-"(Attributes are Strength, Dexterity, and Intelligence)",(屬性分為力量，敏捷和智慧三種)
-(Auras can only grant bonuses to things they affect),（光環只能給受影響的事物提供加成）
-(base damage multiplier),(基礎傷害加成)
-(base),(基礎)
-"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)",( 被致盲有20%更少命中率和閃避值，持續4秒 )
-"(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)",(處於餘燼纏身狀態的敵人移動速度減少20%，受到的火焰傷害增加20%，持續 4 秒)
-"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)",( 流血造成持續性物理傷害，傷害取決於初始的物理傷害。移動時受到的流血傷害增加 )
-(Blinded enemies have their Chance to Hit halved),( 被致盲的敵人命中率減半 )
-(Blitz Charges have a base Duration of 5 seconds),（疾電球的基礎持續時間為 5 秒）。
-(block effect),(格擋效果)
-(Brand Critical Strikes are any Critical Strikes dealt by Brand Skills or by Skills Triggered by a Brand),（由烙印技能和烙印觸發的技能造成的暴擊都為烙印暴擊）
-(Brand Damage is any Damage dealt by Brand Skills or by Skills Triggered by a Brand),（由烙印技能和烙印觸發的技能造成的傷害都為烙印傷害）
-(Cannot apply to any of the active skills),(無法應用到任何主動技能)
-(chance for block to fail),(格擋失敗機率)
-(chance for dodge to fail),(躲避失敗機率)
-"(chance for evasion to fail, only applies to the attack portion)","(閃避失敗機率,僅套用攻擊部分)"
-(chance to be hit by an Average hit),(平均傷害類型的被擊中機率)
-(Chance to even be hit),(可被擊中機率)
-(Chill reduces Enemy Action Speed by 10% for 2 seconds),(冰緩敵人10%並持續2秒)
-(Chill reduces Enemy Action Speed by 10%),(冰緩敵人10%)
-"(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)",(冰緩依據擊中的冰冷傷害總量減少敵人行動速度，至多30%，持續2秒)
-(Choose one of the three attached options),( 請在三個選項中擇一 )
-"(Cold Ailments are Chilled, Frozen and Brittle)",（冰冷元素異常狀態指冰緩、冰凍、易碎）
-(Cold Exposure applies -10% to Cold Resistance for 4 seconds),(【冰冷曝曬】-10% 冰冷抗性，持續 4 秒）
-(Convergence grants 30% more Elemental Damage and lasts 4 seconds),（匯聚使總元素傷害更多 30%，並持續 4 秒）
-(cost multiplier),(消耗加成)
-(crit chance),(暴擊率)
-(Crushed lowers Physical Damage Reduction by 15%),( 壓碎減少 15% 物理傷害減免 )
-(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed),( 對生命等於或少於 10% 最大生命的敵人可以造成撲殺，敵人將直接死亡 )
-(damage effectiveness),(傷害效用)
-"(Debuffs you are Unaffected by can still be placed on you, but will not actually apply their effect)",(你受到的未生效的減益效果依然會被顯示，但是他們不會產生效果)
-"(Defences are Armour, Evasion Rating and Energy Shield)","(防禦指護甲, 閃避和能量護盾)"
-(Disabled),^9(禁用)
+(A Hit that removes at least 15% of Maximum Life is a Savage Hit),(Удар, отнимающий не менее 15% от максимального запаса здоровья, считается Сильным ударом)
+"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)","(Адреналин дарует 100% увеличение урона, 25% увеличение скорости атаки, сотворения чар и передвижения и 10% дополнительное уменьшение получаемого физического урона)"
+"(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)","(Влияет на удары ближнего боя, включая обычную атаку. Не применяется к эффектам по области)"
+"(Ailments are Bleeding, Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, Sapped, and Poisoned)","(Состояния: Кровотечение, Поджог, Опаление, Охлаждение, Заморозка, Хрупкость, Шок, Ошеломление и Отравление)"
+"(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)","(Состояния, наносящие урон: Кровотечение, Поджог и Отравление)"
+"(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)","(Состояния, не наносящие урон: Опаление, Охлаждение, Заморозка, Хрупкость, Шок и Ошеломление)"
+"(Alchemist's Genius increases Flask Charges gained and effect of Flasks by 20%, for 4 seconds)","(Алхимический гений на 20% увеличивает получаемые заряды флаконов и эффект флаконов на 4 секунды)"
+"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","(Союзники, находящиеся на вашей освящённой земле, регенерируют часть от их максимума здоровья в секунду, и эффект проклятий на них ослабляется на 50%)"
+(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance),(Союзники, находящиеся на вашей освящённой земле, регенерируют часть от их максимума здоровья в секунду. Удары по врагам, находящимся на вашей освящённой земле, имеют повышенный шанс критического удара)
+(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second),(Союзники, находящиеся на вашей освящённой земле, регенерируют часть от их максимума здоровья в секунду)
+"(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)","(Колдовской выброс дарует на 10% больше урона от заклинаний и 30% увеличение скорости регенерации маны на 4 секунды)"
+"(Arcane Surge grants 10% more Spell Damage, 10% increased Cast Speed, and 0.5% of maximum Mana Regenerated per second, for 4 seconds)","(Колдовской выброс дарует на 10% больше урона от заклинаний, 10% повышение скорости сотворения чар и регенерирует 0.5% от максимума маны в секунду на 4 секунды)"
+"(Armour is treated as double value, only for calculating damage mitigation)","(Броня считается в двойном размере, но только для расчета уменьшения получаемого урона)"
+(Attacks that Trigger when you are Hit are Counterattacks),(Атаки, срабатывающие при получении вами удара, считаются Ответными ударами)
+"(Attributes are Strength, Dexterity, and Intelligence)","(Характеристики: Сила, Ловкость и Интеллект)"
+(Auras can only grant bonuses to things they affect),(Ауры могут даровать бонусы только тем целям, на которые они действуют)"
+(base damage multiplier),(множитель базового урона)
+(base),(базовый)
+"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","(Ослепление уменьшает меткость и уклонение на 20% на 4 секунды)"
+"(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)","(Пепел уменьшает скорость передвижения на 20% и увеличивает получаемый урон от огня на 20% на 4 секунды)"
+"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)","(Кровотечение наносит постепенный физический урон, зависящий от базового физического урона умения. Во время движения урон выше)"
+(Blinded enemies have their Chance to Hit halved),(Шанс попасть по цели у ослепленных врагов уменьшен вдвое)
+(Blitz Charges have a base Duration of 5 seconds),(Заряды блица имеют базовую длительность 5 секунд)
+(block effect),(эффективность блока)
+(Brand Critical Strikes are any Critical Strikes dealt by Brand Skills or by Skills Triggered by a Brand),(Критическими ударами клейм считаются любые критические удары, нанесенные умениями клейм или умениями, срабатывающими от клейм)
+(Brand Damage is any Damage dealt by Brand Skills or by Skills Triggered by a Brand),(Уроном клейм считается любой урон, нанесенный умениями клейм или умениями, срабатывающими от клейм)
+(Cannot apply to any of the active skills),(Невозможно применить к любому из активных умений)
+(chance for block to fail),(шанс заблокировать неудачлив)
+(chance for dodge to fail),(шанс уклониться от ударов неудачлив)
+"(chance for evasion to fail, only applies to the attack portion)","(шанс уклонения неудачлив, применяется только к атакам)"
+(chance to be hit by an Average hit),(шанс получить средний удар)
+(Chance to even be hit),(Шанс вообще быть атакованным)
+(Chill reduces Enemy Action Speed by 10% for 2 seconds),(Охлаждение уменьшает скорость действий врага на 10% на 2 секунды)
+(Chill reduces Enemy Action Speed by 10%),(Охлаждение уменьшает скорость действий врага на 10%)
+"(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)","(Охлаждение уменьшает скорость действий врага на величину вплоть до 30% в зависимости от урона от холода при ударе, на 2 секунды)"
+(Choose one of the three attached options),(Пожалуйста, выберите один из трех доступных вариантов)
+"(Cold Ailments are Chilled, Frozen and Brittle)","(Холодные состояния: Охлаждение, Заморозка и Хрупкость)"
+(Cold Exposure applies -10% to Cold Resistance for 4 seconds),(Восприимчивость к холоду накладывает -10% к сопротивлению холоду на 4 секунды)
+(Convergence grants 30% more Elemental Damage and lasts 4 seconds),(Слияние дарует на 30% больше стихийного урона и длится 4 секунды)
+(cost multiplier),(множитель стоимости)
+(crit chance),(шанс крита)
+(Crushed lowers Physical Damage Reduction by 15%),(Сокрушение снижает уменьшение физического урона на 15%)
+(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed),(Добивание означает, что враги, у которых после вашего удара осталось не более 10% здоровья, умирают)
+(damage effectiveness),(эффективность урона)
+"(Debuffs you are Unaffected by can still be placed on you, but will not actually apply their effect)","(Отрицательные эффекты, не имеющие воздействия, всё ещё будут накладываться на вас, но их эффект не будет действовать)"
+"(Defences are Armour, Evasion Rating and Energy Shield)","(Защита: Броня, Уклонение и Энергетический щит)"
+(Disabled),^9(Отключено)
 (Each Conflux means all damage causes that Ailment),(每一種匯流代表所有的傷害會觸發該屬性的異常狀態)
 (Each instance of Gale Force lasts 4 seconds. Maximum 10 Gale Force),（每個颶風之力都持續 4 秒。最多 10 個颶風之力）
 (Effects cannot be slowed below 25% of their normal expiry rate),（效果無法低於正常消退速率的 25%）
